@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="640" viewBox="0 0 1050 640">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1f2933}.title{font-size:32px;font-weight:700}.label{font-size:19px}.tick{font-size:17px;fill:#52606d}.cell{font-size:18px;font-weight:700}</style>
+<text class="title" x="70" y="38">Lightweight learned architecture comparison</text>
+<text class="label" x="70" y="62">decision tree, random 70/30 split, mean across goals</text>
+<text class="label" text-anchor="end" x="236" y="132.0">full state</text>
+<rect x="250.0" y="92.0" width="187.5" height="70.0" fill="rgb(22,163,74)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="343.8" y="127.0" fill="#ffffff">1.00</text>
+<text class="tick" text-anchor="middle" x="343.8" y="144.0" fill="#ffffff">sd 0.00</text>
+<rect x="437.5" y="92.0" width="187.5" height="70.0" fill="rgb(26,164,77)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="531.2" y="127.0" fill="#ffffff">0.98</text>
+<text class="tick" text-anchor="middle" x="531.2" y="144.0" fill="#ffffff">sd 0.00</text>
+<rect x="625.0" y="92.0" width="187.5" height="70.0" fill="rgb(29,166,79)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="718.8" y="127.0" fill="#ffffff">0.97</text>
+<text class="tick" text-anchor="middle" x="718.8" y="144.0" fill="#ffffff">sd 0.02</text>
+<rect x="812.5" y="92.0" width="187.5" height="70.0" fill="rgb(35,167,84)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="906.2" y="127.0" fill="#ffffff">0.94</text>
+<text class="tick" text-anchor="middle" x="906.2" y="144.0" fill="#ffffff">sd 0.03</text>
+<text class="label" text-anchor="end" x="236" y="202.0">memoryless counts</text>
+<rect x="250.0" y="162.0" width="187.5" height="70.0" fill="rgb(137,202,157)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="343.8" y="197.0" fill="#1f2933">0.50</text>
+<text class="tick" text-anchor="middle" x="343.8" y="214.0" fill="#1f2933">sd 0.01</text>
+<rect x="437.5" y="162.0" width="187.5" height="70.0" fill="rgb(126,198,149)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="531.2" y="197.0" fill="#ffffff">0.55</text>
+<text class="tick" text-anchor="middle" x="531.2" y="214.0" fill="#ffffff">sd 0.01</text>
+<rect x="625.0" y="162.0" width="187.5" height="70.0" fill="rgb(70,179,109)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="718.8" y="197.0" fill="#ffffff">0.79</text>
+<text class="tick" text-anchor="middle" x="718.8" y="214.0" fill="#ffffff">sd 0.02</text>
+<rect x="812.5" y="162.0" width="187.5" height="70.0" fill="rgb(77,182,114)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="906.2" y="197.0" fill="#ffffff">0.76</text>
+<text class="tick" text-anchor="middle" x="906.2" y="214.0" fill="#ffffff">sd 0.06</text>
+<text class="label" text-anchor="end" x="236" y="272.0">memoryless noisy counts</text>
+<rect x="250.0" y="232.0" width="187.5" height="70.0" fill="rgb(140,203,159)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="343.8" y="267.0" fill="#1f2933">0.49</text>
+<text class="tick" text-anchor="middle" x="343.8" y="284.0" fill="#1f2933">sd 0.01</text>
+<rect x="437.5" y="232.0" width="187.5" height="70.0" fill="rgb(122,197,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="531.2" y="267.0" fill="#ffffff">0.57</text>
+<text class="tick" text-anchor="middle" x="531.2" y="284.0" fill="#ffffff">sd 0.01</text>
+<rect x="625.0" y="232.0" width="187.5" height="70.0" fill="rgb(100,189,130)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="718.8" y="267.0" fill="#ffffff">0.67</text>
+<text class="tick" text-anchor="middle" x="718.8" y="284.0" fill="#ffffff">sd 0.05</text>
+<rect x="812.5" y="232.0" width="187.5" height="70.0" fill="rgb(85,184,119)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="906.2" y="267.0" fill="#ffffff">0.73</text>
+<text class="tick" text-anchor="middle" x="906.2" y="284.0" fill="#ffffff">sd 0.06</text>
+<text class="label" text-anchor="end" x="236" y="342.0">history depth last h4</text>
+<rect x="250.0" y="302.0" width="187.5" height="70.0" fill="rgb(22,163,74)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="343.8" y="337.0" fill="#ffffff">1.00</text>
+<text class="tick" text-anchor="middle" x="343.8" y="354.0" fill="#ffffff">sd 0.00</text>
+<rect x="437.5" y="302.0" width="187.5" height="70.0" fill="rgb(23,163,75)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="531.2" y="337.0" fill="#ffffff">0.99</text>
+<text class="tick" text-anchor="middle" x="531.2" y="354.0" fill="#ffffff">sd 0.00</text>
+<rect x="625.0" y="302.0" width="187.5" height="70.0" fill="rgb(61,176,102)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="718.8" y="337.0" fill="#ffffff">0.83</text>
+<text class="tick" text-anchor="middle" x="718.8" y="354.0" fill="#ffffff">sd 0.09</text>
+<rect x="812.5" y="302.0" width="187.5" height="70.0" fill="rgb(59,176,101)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="906.2" y="337.0" fill="#ffffff">0.84</text>
+<text class="tick" text-anchor="middle" x="906.2" y="354.0" fill="#ffffff">sd 0.09</text>
+<text class="label" text-anchor="end" x="236" y="412.0">hybrid counts depth last h4</text>
+<rect x="250.0" y="372.0" width="187.5" height="70.0" fill="rgb(22,163,74)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="343.8" y="407.0" fill="#ffffff">1.00</text>
+<text class="tick" text-anchor="middle" x="343.8" y="424.0" fill="#ffffff">sd 0.00</text>
+<rect x="437.5" y="372.0" width="187.5" height="70.0" fill="rgb(25,164,76)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="531.2" y="407.0" fill="#ffffff">0.99</text>
+<text class="tick" text-anchor="middle" x="531.2" y="424.0" fill="#ffffff">sd 0.00</text>
+<rect x="625.0" y="372.0" width="187.5" height="70.0" fill="rgb(27,165,78)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="718.8" y="407.0" fill="#ffffff">0.98</text>
+<text class="tick" text-anchor="middle" x="718.8" y="424.0" fill="#ffffff">sd 0.01</text>
+<rect x="812.5" y="372.0" width="187.5" height="70.0" fill="rgb(29,166,79)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="906.2" y="407.0" fill="#ffffff">0.97</text>
+<text class="tick" text-anchor="middle" x="906.2" y="424.0" fill="#ffffff">sd 0.03</text>
+<text class="tick" text-anchor="end" x="365.8" y="538" transform="rotate(-30 365.8 538)">trace commute 000</text>
+<text class="tick" text-anchor="end" x="553.2" y="538" transform="rotate(-30 553.2 538)">trace commute 033</text>
+<text class="tick" text-anchor="end" x="740.8" y="538" transform="rotate(-30 740.8 538)">trace commute 067</text>
+<text class="tick" text-anchor="end" x="928.2" y="538" transform="rotate(-30 928.2 538)">trace commute 100</text>
+</svg>

@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="760" viewBox="0 0 1040 760">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1f2933}.title{font-size:30px;font-weight:700}.subtitle{font-size:17px;fill:#52606d}.label{font-size:16px}.small{font-size:13px;fill:#52606d}.value{font-size:14px;font-weight:700}.axis{stroke:#cbd5e1;stroke-width:1}</style>
+<text class="title" x="48" y="40">Gaussian Performances Ordered By Action Commutativity</text>
+<text class="subtitle" x="48" y="66">Each cell is best action accuracy within a model family; rows are sorted by valid-only commutativity.</text>
+<text class="small" text-anchor="middle" x="352.5" y="71">Memoryless</text>
+<text class="small" text-anchor="middle" x="487.5" y="71">RNN</text>
+<text class="small" text-anchor="middle" x="622.5" y="71">Reservoir</text>
+<text class="small" text-anchor="middle" x="757.5" y="71">Shared Lin</text>
+<text class="small" text-anchor="middle" x="892.5" y="71">Independent Lin</text>
+<text class="label" text-anchor="end" x="267" y="113">st 025</text>
+<text class="small" text-anchor="end" x="267" y="129">valid C=0.098</text>
+<rect x="285.0" y="95.0" width="135.0" height="39.0" fill="rgb(39,111,66)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="352.5" y="119.5" fill="#ffffff">0.93</text>
+<rect x="420.0" y="95.0" width="135.0" height="39.0" fill="rgb(37,110,65)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="487.5" y="119.5" fill="#ffffff">0.93</text>
+<rect x="555.0" y="95.0" width="135.0" height="39.0" fill="rgb(38,111,65)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="622.5" y="119.5" fill="#ffffff">0.93</text>
+<rect x="690.0" y="95.0" width="135.0" height="39.0" fill="rgb(39,111,66)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="757.5" y="119.5" fill="#ffffff">0.93</text>
+<rect x="825.0" y="95.0" width="135.0" height="39.0" fill="rgb(40,112,67)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="892.5" y="119.5" fill="#ffffff">0.92</text>
+<text class="label" text-anchor="end" x="267" y="152">tree</text>
+<text class="small" text-anchor="end" x="267" y="168">valid C=0.099</text>
+<rect x="285.0" y="134.0" width="135.0" height="39.0" fill="rgb(28,105,57)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="352.5" y="158.5" fill="#ffffff">0.97</text>
+<rect x="420.0" y="134.0" width="135.0" height="39.0" fill="rgb(28,105,57)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="487.5" y="158.5" fill="#ffffff">0.97</text>
+<rect x="555.0" y="134.0" width="135.0" height="39.0" fill="rgb(28,105,57)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="622.5" y="158.5" fill="#ffffff">0.97</text>
+<rect x="690.0" y="134.0" width="135.0" height="39.0" fill="rgb(28,105,57)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="757.5" y="158.5" fill="#ffffff">0.97</text>
+<rect x="825.0" y="134.0" width="135.0" height="39.0" fill="rgb(28,105,57)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="892.5" y="158.5" fill="#ffffff">0.97</text>
+<text class="label" text-anchor="end" x="267" y="191">st 050</text>
+<text class="small" text-anchor="end" x="267" y="207">valid C=0.131</text>
+<rect x="285.0" y="173.0" width="135.0" height="39.0" fill="rgb(58,123,82)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="352.5" y="197.5" fill="#ffffff">0.84</text>
+<rect x="420.0" y="173.0" width="135.0" height="39.0" fill="rgb(58,123,82)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="487.5" y="197.5" fill="#ffffff">0.84</text>
+<rect x="555.0" y="173.0" width="135.0" height="39.0" fill="rgb(57,122,81)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="622.5" y="197.5" fill="#ffffff">0.85</text>
+<rect x="690.0" y="173.0" width="135.0" height="39.0" fill="rgb(58,123,81)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="757.5" y="197.5" fill="#ffffff">0.85</text>
+<rect x="825.0" y="173.0" width="135.0" height="39.0" fill="rgb(58,123,82)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="892.5" y="197.5" fill="#ffffff">0.84</text>
+<text class="label" text-anchor="end" x="267" y="230">st 100</text>
+<text class="small" text-anchor="end" x="267" y="246">valid C=0.135</text>
+<rect x="285.0" y="212.0" width="135.0" height="39.0" fill="rgb(102,150,117)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="352.5" y="236.5" fill="#1f2933">0.66</text>
+<rect x="420.0" y="212.0" width="135.0" height="39.0" fill="rgb(98,147,114)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="487.5" y="236.5" fill="#1f2933">0.67</text>
+<rect x="555.0" y="212.0" width="135.0" height="39.0" fill="rgb(105,152,120)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="622.5" y="236.5" fill="#1f2933">0.64</text>
+<rect x="690.0" y="212.0" width="135.0" height="39.0" fill="rgb(98,147,115)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="757.5" y="236.5" fill="#1f2933">0.67</text>
+<rect x="825.0" y="212.0" width="135.0" height="39.0" fill="rgb(104,151,120)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="892.5" y="236.5" fill="#1f2933">0.64</text>
+<text class="label" text-anchor="end" x="267" y="269">landmark gap detour</text>
+<text class="small" text-anchor="end" x="267" y="285">raw C=0.867</text>
+<rect x="285.0" y="251.0" width="135.0" height="39.0" fill="rgb(80,136,100)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="352.5" y="275.5" fill="#ffffff">0.75</text>
+<rect x="420.0" y="251.0" width="135.0" height="39.0" fill="rgb(119,160,131)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="487.5" y="275.5" fill="#1f2933">0.58</text>
+<rect x="555.0" y="251.0" width="135.0" height="39.0" fill="rgb(48,117,73)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="622.5" y="275.5" fill="#ffffff">0.89</text>
+<rect x="690.0" y="251.0" width="135.0" height="39.0" fill="rgb(54,121,78)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="757.5" y="275.5" fill="#ffffff">0.86</text>
+<rect x="825.0" y="251.0" width="135.0" height="39.0" fill="rgb(22,101,52)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="892.5" y="275.5" fill="#ffffff">1.00</text>
+<text class="label" text-anchor="end" x="267" y="308">rg loop rich</text>
+<text class="small" text-anchor="end" x="267" y="324">valid C=0.878</text>
+<rect x="285.0" y="290.0" width="135.0" height="39.0" fill="rgb(86,140,104)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="352.5" y="314.5" fill="#ffffff">0.73</text>
+<rect x="420.0" y="290.0" width="135.0" height="39.0" fill="rgb(104,151,119)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="487.5" y="314.5" fill="#1f2933">0.65</text>
+<rect x="555.0" y="290.0" width="135.0" height="39.0" fill="rgb(87,140,105)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="622.5" y="314.5" fill="#ffffff">0.72</text>
+<rect x="690.0" y="290.0" width="135.0" height="39.0" fill="rgb(94,145,111)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="757.5" y="314.5" fill="#1f2933">0.69</text>
+<rect x="825.0" y="290.0" width="135.0" height="39.0" fill="rgb(101,149,116)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="892.5" y="314.5" fill="#1f2933">0.66</text>
+<text class="label" text-anchor="end" x="267" y="347">rg bottleneck</text>
+<text class="small" text-anchor="end" x="267" y="363">valid C=0.884</text>
+<rect x="285.0" y="329.0" width="135.0" height="39.0" fill="rgb(82,138,101)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="352.5" y="353.5" fill="#ffffff">0.74</text>
+<rect x="420.0" y="329.0" width="135.0" height="39.0" fill="rgb(68,129,90)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="487.5" y="353.5" fill="#ffffff">0.80</text>
+<rect x="555.0" y="329.0" width="135.0" height="39.0" fill="rgb(63,126,86)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="622.5" y="353.5" fill="#ffffff">0.82</text>
+<rect x="690.0" y="329.0" width="135.0" height="39.0" fill="rgb(78,135,98)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="757.5" y="353.5" fill="#ffffff">0.76</text>
+<rect x="825.0" y="329.0" width="135.0" height="39.0" fill="rgb(87,141,105)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="892.5" y="353.5" fill="#ffffff">0.72</text>
+<text class="label" text-anchor="end" x="267" y="386">rg tree like</text>
+<text class="small" text-anchor="end" x="267" y="402">valid C=0.903</text>
+<rect x="285.0" y="368.0" width="135.0" height="39.0" fill="rgb(80,136,100)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="352.5" y="392.5" fill="#ffffff">0.75</text>
+<rect x="420.0" y="368.0" width="135.0" height="39.0" fill="rgb(82,138,101)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="487.5" y="392.5" fill="#ffffff">0.74</text>
+<rect x="555.0" y="368.0" width="135.0" height="39.0" fill="rgb(72,131,93)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="622.5" y="392.5" fill="#ffffff">0.79</text>
+<rect x="690.0" y="368.0" width="135.0" height="39.0" fill="rgb(80,136,100)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="757.5" y="392.5" fill="#ffffff">0.75</text>
+<rect x="825.0" y="368.0" width="135.0" height="39.0" fill="rgb(78,135,98)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="892.5" y="392.5" fill="#ffffff">0.76</text>
+<text class="label" text-anchor="end" x="267" y="425">aliased loop rooms</text>
+<text class="small" text-anchor="end" x="267" y="441">valid C=1.000</text>
+<rect x="285.0" y="407.0" width="135.0" height="39.0" fill="rgb(138,172,147)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="352.5" y="431.5" fill="#1f2933">0.50</text>
+<rect x="420.0" y="407.0" width="135.0" height="39.0" fill="rgb(173,193,176)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="487.5" y="431.5" fill="#1f2933">0.35</text>
+<rect x="555.0" y="407.0" width="135.0" height="39.0" fill="rgb(123,162,134)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="622.5" y="431.5" fill="#1f2933">0.57</text>
+<rect x="690.0" y="407.0" width="135.0" height="39.0" fill="rgb(165,188,169)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="757.5" y="431.5" fill="#1f2933">0.38</text>
+<rect x="825.0" y="407.0" width="135.0" height="39.0" fill="rgb(138,172,147)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="892.5" y="431.5" fill="#1f2933">0.50</text>
+<text class="label" text-anchor="end" x="267" y="464">aliased rooms</text>
+<text class="small" text-anchor="end" x="267" y="480">valid C=1.000</text>
+<rect x="285.0" y="446.0" width="135.0" height="39.0" fill="rgb(99,148,115)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="352.5" y="470.5" fill="#1f2933">0.67</text>
+<rect x="420.0" y="446.0" width="135.0" height="39.0" fill="rgb(84,139,103)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="487.5" y="470.5" fill="#ffffff">0.73</text>
+<rect x="555.0" y="446.0" width="135.0" height="39.0" fill="rgb(86,140,105)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="622.5" y="470.5" fill="#ffffff">0.72</text>
+<rect x="690.0" y="446.0" width="135.0" height="39.0" fill="rgb(81,137,101)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="757.5" y="470.5" fill="#ffffff">0.74</text>
+<rect x="825.0" y="446.0" width="135.0" height="39.0" fill="rgb(61,124,84)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="892.5" y="470.5" fill="#ffffff">0.83</text>
+<text class="label" text-anchor="end" x="267" y="503">bottleneck rooms</text>
+<text class="small" text-anchor="end" x="267" y="519">valid C=1.000</text>
+<rect x="285.0" y="485.0" width="135.0" height="39.0" fill="rgb(84,139,103)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="352.5" y="509.5" fill="#ffffff">0.73</text>
+<rect x="420.0" y="485.0" width="135.0" height="39.0" fill="rgb(99,148,115)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="487.5" y="509.5" fill="#1f2933">0.67</text>
+<rect x="555.0" y="485.0" width="135.0" height="39.0" fill="rgb(81,137,101)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="622.5" y="509.5" fill="#ffffff">0.74</text>
+<rect x="690.0" y="485.0" width="135.0" height="39.0" fill="rgb(107,153,122)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="757.5" y="509.5" fill="#1f2933">0.63</text>
+<rect x="825.0" y="485.0" width="135.0" height="39.0" fill="rgb(92,143,109)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="892.5" y="509.5" fill="#1f2933">0.70</text>
+<text class="label" text-anchor="end" x="267" y="542">clamped lattice</text>
+<text class="small" text-anchor="end" x="267" y="558">valid C=1.000</text>
+<rect x="285.0" y="524.0" width="135.0" height="39.0" fill="rgb(75,133,95)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="352.5" y="548.5" fill="#ffffff">0.77</text>
+<rect x="420.0" y="524.0" width="135.0" height="39.0" fill="rgb(75,133,95)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="487.5" y="548.5" fill="#ffffff">0.77</text>
+<rect x="555.0" y="524.0" width="135.0" height="39.0" fill="rgb(75,133,95)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="622.5" y="548.5" fill="#ffffff">0.77</text>
+<rect x="690.0" y="524.0" width="135.0" height="39.0" fill="rgb(73,132,94)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="757.5" y="548.5" fill="#ffffff">0.78</text>
+<rect x="825.0" y="524.0" width="135.0" height="39.0" fill="rgb(69,130,91)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="892.5" y="548.5" fill="#ffffff">0.80</text>
+<text class="label" text-anchor="end" x="267" y="581">shortcut route choice</text>
+<text class="small" text-anchor="end" x="267" y="597">valid C=1.000</text>
+<rect x="285.0" y="563.0" width="135.0" height="39.0" fill="rgb(92,143,109)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="352.5" y="587.5" fill="#1f2933">0.70</text>
+<rect x="420.0" y="563.0" width="135.0" height="39.0" fill="rgb(22,101,52)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="487.5" y="587.5" fill="#ffffff">1.00</text>
+<rect x="555.0" y="563.0" width="135.0" height="39.0" fill="rgb(22,101,52)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="622.5" y="587.5" fill="#ffffff">1.00</text>
+<rect x="690.0" y="563.0" width="135.0" height="39.0" fill="rgb(22,101,52)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="757.5" y="587.5" fill="#ffffff">1.00</text>
+<rect x="825.0" y="563.0" width="135.0" height="39.0" fill="rgb(22,101,52)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="892.5" y="587.5" fill="#ffffff">1.00</text>
+<text class="label" text-anchor="end" x="267" y="620">aliased t maze</text>
+<text class="small" text-anchor="end" x="267" y="636">valid C=1.000</text>
+<rect x="285.0" y="602.0" width="135.0" height="39.0" fill="rgb(119,160,131)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="352.5" y="626.5" fill="#1f2933">0.58</text>
+<rect x="420.0" y="602.0" width="135.0" height="39.0" fill="rgb(80,136,100)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="487.5" y="626.5" fill="#ffffff">0.75</text>
+<rect x="555.0" y="602.0" width="135.0" height="39.0" fill="rgb(35,109,63)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="622.5" y="626.5" fill="#ffffff">0.94</text>
+<rect x="690.0" y="602.0" width="135.0" height="39.0" fill="rgb(22,101,52)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="757.5" y="626.5" fill="#ffffff">1.00</text>
+<rect x="825.0" y="602.0" width="135.0" height="39.0" fill="rgb(22,101,52)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="892.5" y="626.5" fill="#ffffff">1.00</text>
+<text class="label" text-anchor="end" x="267" y="659">torus lattice</text>
+<text class="small" text-anchor="end" x="267" y="675">valid C=1.000</text>
+<rect x="285.0" y="641.0" width="135.0" height="39.0" fill="rgb(196,207,194)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="352.5" y="665.5" fill="#1f2933">0.25</text>
+<rect x="420.0" y="641.0" width="135.0" height="39.0" fill="rgb(180,197,182)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="487.5" y="665.5" fill="#1f2933">0.32</text>
+<rect x="555.0" y="641.0" width="135.0" height="39.0" fill="rgb(166,189,170)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="622.5" y="665.5" fill="#1f2933">0.38</text>
+<rect x="690.0" y="641.0" width="135.0" height="39.0" fill="rgb(170,191,173)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="757.5" y="665.5" fill="#1f2933">0.36</text>
+<rect x="825.0" y="641.0" width="135.0" height="39.0" fill="rgb(196,207,194)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="892.5" y="665.5" fill="#1f2933">0.25</text>
+<text class="small" x="48" y="718">This replaces the earlier memoryless-versus-best-memory bar view; Lin blocks are included as an independent family.</text>
+</svg>

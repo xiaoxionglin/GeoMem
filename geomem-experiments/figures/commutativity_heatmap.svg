@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1f2933}.title{font-size:32px;font-weight:700}.label{font-size:19px}.tick{font-size:17px;fill:#52606d}.cell{font-size:18px;font-weight:700}</style>
+<text class="title" x="90" y="38">Valid-only commutativity heatmap</text>
+<text class="label" x="90" y="60">Rows are environment families; columns are action-sequence lengths</text>
+<text class="label" text-anchor="end" x="176" y="106.4">torus lattice</text>
+<rect x="190.0" y="80.0" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="240.7" y="106.4" fill="#ffffff">1.00</text>
+<rect x="291.4" y="80.0" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="342.1" y="106.4" fill="#ffffff">1.00</text>
+<rect x="392.9" y="80.0" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="443.6" y="106.4" fill="#ffffff">1.00</text>
+<rect x="494.3" y="80.0" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="545.0" y="106.4" fill="#ffffff">1.00</text>
+<rect x="595.7" y="80.0" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="646.4" y="106.4" fill="#ffffff">1.00</text>
+<rect x="697.1" y="80.0" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="747.9" y="106.4" fill="#ffffff">1.00</text>
+<rect x="798.6" y="80.0" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="849.3" y="106.4" fill="#ffffff">1.00</text>
+<text class="label" text-anchor="end" x="176" y="149.1">clamped lattice</text>
+<rect x="190.0" y="122.7" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="240.7" y="149.1" fill="#ffffff">1.00</text>
+<rect x="291.4" y="122.7" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="342.1" y="149.1" fill="#ffffff">1.00</text>
+<rect x="392.9" y="122.7" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="443.6" y="149.1" fill="#ffffff">1.00</text>
+<rect x="494.3" y="122.7" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="545.0" y="149.1" fill="#ffffff">1.00</text>
+<rect x="595.7" y="122.7" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="646.4" y="149.1" fill="#ffffff">1.00</text>
+<rect x="697.1" y="122.7" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="747.9" y="149.1" fill="#ffffff">1.00</text>
+<rect x="798.6" y="122.7" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="849.3" y="149.1" fill="#ffffff">1.00</text>
+<text class="label" text-anchor="end" x="176" y="191.8">bottleneck rooms</text>
+<rect x="190.0" y="165.5" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="240.7" y="191.8" fill="#ffffff">1.00</text>
+<rect x="291.4" y="165.5" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="342.1" y="191.8" fill="#ffffff">1.00</text>
+<rect x="392.9" y="165.5" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="443.6" y="191.8" fill="#ffffff">1.00</text>
+<rect x="494.3" y="165.5" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="545.0" y="191.8" fill="#ffffff">1.00</text>
+<rect x="595.7" y="165.5" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="646.4" y="191.8" fill="#ffffff">1.00</text>
+<rect x="697.1" y="165.5" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="747.9" y="191.8" fill="#ffffff">1.00</text>
+<rect x="798.6" y="165.5" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="849.3" y="191.8" fill="#ffffff">1.00</text>
+<text class="label" text-anchor="end" x="176" y="234.5">tree</text>
+<rect x="190.0" y="208.2" width="101.4" height="42.7" fill="rgb(202,219,243)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="240.7" y="234.5" fill="#1f2933">0.16</text>
+<rect x="291.4" y="208.2" width="101.4" height="42.7" fill="rgb(203,220,243)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="342.1" y="234.5" fill="#1f2933">0.16</text>
+<rect x="392.9" y="208.2" width="101.4" height="42.7" fill="rgb(210,225,246)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="443.6" y="234.5" fill="#1f2933">0.12</text>
+<rect x="494.3" y="208.2" width="101.4" height="42.7" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="545.0" y="234.5" fill="#1f2933">NA</text>
+<rect x="595.7" y="208.2" width="101.4" height="42.7" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="646.4" y="234.5" fill="#1f2933">NA</text>
+<rect x="697.1" y="208.2" width="101.4" height="42.7" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="747.9" y="234.5" fill="#1f2933">NA</text>
+<rect x="798.6" y="208.2" width="101.4" height="42.7" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="849.3" y="234.5" fill="#1f2933">NA</text>
+<text class="label" text-anchor="end" x="176" y="277.3">shortcut tree 025</text>
+<rect x="190.0" y="250.9" width="101.4" height="42.7" fill="rgb(206,222,244)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="240.7" y="277.3" fill="#1f2933">0.14</text>
+<rect x="291.4" y="250.9" width="101.4" height="42.7" fill="rgb(203,220,243)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="342.1" y="277.3" fill="#1f2933">0.16</text>
+<rect x="392.9" y="250.9" width="101.4" height="42.7" fill="rgb(208,223,245)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="443.6" y="277.3" fill="#1f2933">0.13</text>
+<rect x="494.3" y="250.9" width="101.4" height="42.7" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="545.0" y="277.3" fill="#1f2933">NA</text>
+<rect x="595.7" y="250.9" width="101.4" height="42.7" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="646.4" y="277.3" fill="#1f2933">NA</text>
+<rect x="697.1" y="250.9" width="101.4" height="42.7" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="747.9" y="277.3" fill="#1f2933">NA</text>
+<rect x="798.6" y="250.9" width="101.4" height="42.7" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="849.3" y="277.3" fill="#1f2933">NA</text>
+<text class="label" text-anchor="end" x="176" y="320.0">shortcut tree 050</text>
+<rect x="190.0" y="293.6" width="101.4" height="42.7" fill="rgb(204,221,244)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="240.7" y="320.0" fill="#1f2933">0.15</text>
+<rect x="291.4" y="293.6" width="101.4" height="42.7" fill="rgb(200,218,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="342.1" y="320.0" fill="#1f2933">0.17</text>
+<rect x="392.9" y="293.6" width="101.4" height="42.7" fill="rgb(206,222,244)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="443.6" y="320.0" fill="#1f2933">0.14</text>
+<rect x="494.3" y="293.6" width="101.4" height="42.7" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="545.0" y="320.0" fill="#1f2933">NA</text>
+<rect x="595.7" y="293.6" width="101.4" height="42.7" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="646.4" y="320.0" fill="#1f2933">NA</text>
+<rect x="697.1" y="293.6" width="101.4" height="42.7" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="747.9" y="320.0" fill="#1f2933">NA</text>
+<rect x="798.6" y="293.6" width="101.4" height="42.7" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="849.3" y="320.0" fill="#1f2933">NA</text>
+<text class="label" text-anchor="end" x="176" y="362.7">shortcut tree 100</text>
+<rect x="190.0" y="336.4" width="101.4" height="42.7" fill="rgb(202,219,243)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="240.7" y="362.7" fill="#1f2933">0.16</text>
+<rect x="291.4" y="336.4" width="101.4" height="42.7" fill="rgb(200,218,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="342.1" y="362.7" fill="#1f2933">0.17</text>
+<rect x="392.9" y="336.4" width="101.4" height="42.7" fill="rgb(207,223,245)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="443.6" y="362.7" fill="#1f2933">0.14</text>
+<rect x="494.3" y="336.4" width="101.4" height="42.7" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="545.0" y="362.7" fill="#1f2933">NA</text>
+<rect x="595.7" y="336.4" width="101.4" height="42.7" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="646.4" y="362.7" fill="#1f2933">NA</text>
+<rect x="697.1" y="336.4" width="101.4" height="42.7" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="747.9" y="362.7" fill="#1f2933">NA</text>
+<rect x="798.6" y="336.4" width="101.4" height="42.7" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="849.3" y="362.7" fill="#1f2933">NA</text>
+<text class="label" text-anchor="end" x="176" y="405.5">trace commute 000</text>
+<rect x="190.0" y="379.1" width="101.4" height="42.7" fill="rgb(235,244,255)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="240.7" y="405.5" fill="#1f2933">0.00</text>
+<rect x="291.4" y="379.1" width="101.4" height="42.7" fill="rgb(235,244,255)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="342.1" y="405.5" fill="#1f2933">0.00</text>
+<rect x="392.9" y="379.1" width="101.4" height="42.7" fill="rgb(235,244,255)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="443.6" y="405.5" fill="#1f2933">0.00</text>
+<rect x="494.3" y="379.1" width="101.4" height="42.7" fill="rgb(235,244,255)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="545.0" y="405.5" fill="#1f2933">0.00</text>
+<rect x="595.7" y="379.1" width="101.4" height="42.7" fill="rgb(235,244,255)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="646.4" y="405.5" fill="#1f2933">0.00</text>
+<rect x="697.1" y="379.1" width="101.4" height="42.7" fill="rgb(235,244,255)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="747.9" y="405.5" fill="#1f2933">0.00</text>
+<rect x="798.6" y="379.1" width="101.4" height="42.7" fill="rgb(235,244,255)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="849.3" y="405.5" fill="#1f2933">0.00</text>
+<text class="label" text-anchor="end" x="176" y="448.2">trace commute 033</text>
+<rect x="190.0" y="421.8" width="101.4" height="42.7" fill="rgb(168,193,230)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="240.7" y="448.2" fill="#1f2933">0.33</text>
+<rect x="291.4" y="421.8" width="101.4" height="42.7" fill="rgb(175,199,233)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="342.1" y="448.2" fill="#1f2933">0.29</text>
+<rect x="392.9" y="421.8" width="101.4" height="42.7" fill="rgb(181,203,235)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="443.6" y="448.2" fill="#1f2933">0.26</text>
+<rect x="494.3" y="421.8" width="101.4" height="42.7" fill="rgb(187,208,237)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="545.0" y="448.2" fill="#1f2933">0.24</text>
+<rect x="595.7" y="421.8" width="101.4" height="42.7" fill="rgb(191,211,239)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="646.4" y="448.2" fill="#1f2933">0.21</text>
+<rect x="697.1" y="421.8" width="101.4" height="42.7" fill="rgb(195,214,240)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="747.9" y="448.2" fill="#1f2933">0.20</text>
+<rect x="798.6" y="421.8" width="101.4" height="42.7" fill="rgb(198,216,241)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="849.3" y="448.2" fill="#1f2933">0.18</text>
+<text class="label" text-anchor="end" x="176" y="490.9">trace commute 067</text>
+<rect x="190.0" y="464.5" width="101.4" height="42.7" fill="rgb(100,142,205)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="240.7" y="490.9" fill="#ffffff">0.66</text>
+<rect x="291.4" y="464.5" width="101.4" height="42.7" fill="rgb(114,153,211)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="342.1" y="490.9" fill="#1f2933">0.59</text>
+<rect x="392.9" y="464.5" width="101.4" height="42.7" fill="rgb(126,162,215)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="443.6" y="490.9" fill="#1f2933">0.53</text>
+<rect x="494.3" y="464.5" width="101.4" height="42.7" fill="rgb(137,170,219)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="545.0" y="490.9" fill="#1f2933">0.48</text>
+<rect x="595.7" y="464.5" width="101.4" height="42.7" fill="rgb(146,177,222)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="646.4" y="490.9" fill="#1f2933">0.43</text>
+<rect x="697.1" y="464.5" width="101.4" height="42.7" fill="rgb(154,183,225)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="747.9" y="490.9" fill="#1f2933">0.40</text>
+<rect x="798.6" y="464.5" width="101.4" height="42.7" fill="rgb(161,188,228)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="849.3" y="490.9" fill="#1f2933">0.36</text>
+<text class="label" text-anchor="end" x="176" y="533.6">trace commute 100</text>
+<rect x="190.0" y="507.3" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="240.7" y="533.6" fill="#ffffff">1.00</text>
+<rect x="291.4" y="507.3" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="342.1" y="533.6" fill="#ffffff">1.00</text>
+<rect x="392.9" y="507.3" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="443.6" y="533.6" fill="#ffffff">1.00</text>
+<rect x="494.3" y="507.3" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="545.0" y="533.6" fill="#ffffff">1.00</text>
+<rect x="595.7" y="507.3" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="646.4" y="533.6" fill="#ffffff">1.00</text>
+<rect x="697.1" y="507.3" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="747.9" y="533.6" fill="#ffffff">1.00</text>
+<rect x="798.6" y="507.3" width="101.4" height="42.7" fill="rgb(31,90,180)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="849.3" y="533.6" fill="#ffffff">1.00</text>
+<text class="tick" text-anchor="middle" x="240.7" y="585">2</text>
+<text class="tick" text-anchor="middle" x="342.1" y="585">3</text>
+<text class="tick" text-anchor="middle" x="443.6" y="585">4</text>
+<text class="tick" text-anchor="middle" x="545.0" y="585">5</text>
+<text class="tick" text-anchor="middle" x="646.4" y="585">6</text>
+<text class="tick" text-anchor="middle" x="747.9" y="585">7</text>
+<text class="tick" text-anchor="middle" x="849.3" y="585">8</text>
+<text class="label" text-anchor="middle" x="545.0" y="608">action-sequence length</text>
+</svg>

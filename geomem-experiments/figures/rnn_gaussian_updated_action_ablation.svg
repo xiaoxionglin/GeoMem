@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1f2933}.title{font-size:30px;font-weight:700}.label{font-size:18px}.cell{font-size:18px;font-weight:700}</style>
+<text class="title" x="50" y="38">Gaussian action-input ablation</text>
+<text class="label" x="50" y="62">Mean action accuracy; gaussian_sensory / temporal_full</text>
+<text class="label" text-anchor="end" x="198" y="122.2">memoryless linear</text>
+<rect x="210.0" y="84.0" width="156.7" height="66.5" fill="rgb(94,145,111)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="288.3" y="122.2" fill="#ffffff">0.69</text>
+<rect x="366.7" y="84.0" width="156.7" height="66.5" fill="rgb(90,143,108)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="445.0" y="122.2" fill="#ffffff">0.70</text>
+<rect x="523.3" y="84.0" width="156.7" height="66.5" fill="rgb(92,143,109)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="601.7" y="122.2" fill="#ffffff">0.70</text>
+<text class="label" text-anchor="end" x="198" y="188.8">numpy rnn</text>
+<rect x="210.0" y="150.5" width="156.7" height="66.5" fill="rgb(87,141,105)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="288.3" y="188.8" fill="#ffffff">0.72</text>
+<rect x="366.7" y="150.5" width="156.7" height="66.5" fill="rgb(93,144,111)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="445.0" y="188.8" fill="#ffffff">0.69</text>
+<rect x="523.3" y="150.5" width="156.7" height="66.5" fill="rgb(93,144,110)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="601.7" y="188.8" fill="#ffffff">0.69</text>
+<text class="label" text-anchor="end" x="198" y="255.2">reservoir nilpotent</text>
+<rect x="210.0" y="217.0" width="156.7" height="66.5" fill="rgb(95,145,112)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="288.3" y="255.2" fill="#ffffff">0.69</text>
+<rect x="366.7" y="217.0" width="156.7" height="66.5" fill="rgb(91,143,109)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="445.0" y="255.2" fill="#ffffff">0.70</text>
+<rect x="523.3" y="217.0" width="156.7" height="66.5" fill="rgb(92,144,109)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="601.7" y="255.2" fill="#ffffff">0.70</text>
+<text class="label" text-anchor="end" x="198" y="321.8">lin sequence front bands r3 l4</text>
+<rect x="210.0" y="283.5" width="156.7" height="66.5" fill="rgb(98,147,114)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="288.3" y="321.8" fill="#ffffff">0.67</text>
+<rect x="366.7" y="283.5" width="156.7" height="66.5" fill="rgb(95,145,112)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="445.0" y="321.8" fill="#ffffff">0.69</text>
+<rect x="523.3" y="283.5" width="156.7" height="66.5" fill="rgb(95,146,112)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="601.7" y="321.8" fill="#ffffff">0.68</text>
+<text class="label" text-anchor="middle" x="288.3" y="388">none</text>
+<text class="label" text-anchor="middle" x="445.0" y="388">one hot</text>
+<text class="label" text-anchor="middle" x="601.7" y="388">embedding</text>
+</svg>

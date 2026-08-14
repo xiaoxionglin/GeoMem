@@ -1,0 +1,17 @@
+environment,candidate_set,threshold,selected_model,selected_architecture,memory_cost,mean_accuracy,sd_accuracy,n_goals,vector_accuracy,vector_sd,gain_over_vector
+trace_commute_000,conservative_counts,0.95,history_counts_h2,sequence_history,6,0.9995934959349594,0.00010712322697046975,9,0.5174683830171635,7.490119219412843e-05,0.4821251129177959
+trace_commute_000,conservative_counts,0.99,history_counts_h2,sequence_history,6,0.9995934959349594,0.00010712322697046975,9,0.5174683830171635,7.490119219412843e-05,0.4821251129177959
+trace_commute_000,hybrid_allowed,0.95,hybrid_counts_depth_last_h1,hybrid_vector_route_history,5,0.9995934959349594,0.00010712322697046975,9,0.5174683830171635,7.490119219412843e-05,0.4821251129177959
+trace_commute_000,hybrid_allowed,0.99,hybrid_counts_depth_last_h1,hybrid_vector_route_history,5,0.9995934959349594,0.00010712322697046975,9,0.5174683830171635,7.490119219412843e-05,0.4821251129177959
+trace_commute_033,conservative_counts,0.95,history_counts_h4,sequence_history,12,0.990667623833453,0.0007567067863528278,9,0.5725186780463163,0.00117829995512805,0.4181489457871367
+trace_commute_033,conservative_counts,0.99,history_counts_h4,sequence_history,12,0.990667623833453,0.0007567067863528278,9,0.5725186780463163,0.00117829995512805,0.4181489457871367
+trace_commute_033,hybrid_allowed,0.95,hybrid_counts_depth_last_h2,hybrid_vector_route_history,7,0.9767887054319215,0.0024088169211998875,9,0.5725186780463163,0.00117829995512805,0.40427002738560525
+trace_commute_033,hybrid_allowed,0.99,hybrid_counts_depth_last_h4,hybrid_vector_route_history,11,0.9963574486187552,0.0005500561236227924,9,0.5725186780463163,0.00117829995512805,0.4238387705724389
+trace_commute_067,conservative_counts,0.95,history_counts_h2,sequence_history,6,0.9971453667105841,0.002440284450032141,9,0.8227931488801055,0.0028714749298686987,0.1743522178304786
+trace_commute_067,conservative_counts,0.99,history_counts_h2,sequence_history,6,0.9971453667105841,0.002440284450032141,9,0.8227931488801055,0.0028714749298686987,0.1743522178304786
+trace_commute_067,hybrid_allowed,0.95,hybrid_counts_depth_last_h1,hybrid_vector_route_history,5,0.9971453667105841,0.002440284450032141,9,0.8227931488801055,0.0028714749298686987,0.1743522178304786
+trace_commute_067,hybrid_allowed,0.99,hybrid_counts_depth_last_h1,hybrid_vector_route_history,5,0.9971453667105841,0.002440284450032141,9,0.8227931488801055,0.0028714749298686987,0.1743522178304786
+trace_commute_100,conservative_counts,0.95,memoryless_counts,vector_counts,3,1.0,0.0,9,1.0,0.0,0.0
+trace_commute_100,conservative_counts,0.99,memoryless_counts,vector_counts,3,1.0,0.0,9,1.0,0.0,0.0
+trace_commute_100,hybrid_allowed,0.95,memoryless_counts,vector_counts,3,1.0,0.0,9,1.0,0.0,0.0
+trace_commute_100,hybrid_allowed,0.99,memoryless_counts,vector_counts,3,1.0,0.0,9,1.0,0.0,0.0

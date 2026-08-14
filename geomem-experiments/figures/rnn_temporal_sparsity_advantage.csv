@@ -1,0 +1,16 @@
+obs_mode,temporal_mode,action_input,action_embedding_dim,n_tasks,memory_advantage_mean,memory_advantage_sem,positive_task_count,best_task,best_recurrent_model,best_task_advantage
+egocentric_landmark,temporal_cue_then_blank,one_hot,0,15,0.1786880970483121,0.04776638225506357,10,landmark_gap_detour,lin_block_r1_l8,0.6666666666666667
+egocentric_landmark,temporal_dropout,one_hot,0,15,0.11216955137654061,0.044045376954030824,8,landmark_gap_detour,lin_block_r1_l8,0.5000000000000001
+egocentric_landmark,temporal_full,one_hot,0,15,0.048168726434855445,0.018643696844964884,8,shortcut_route_choice,lin_block_r1_l4,0.19999999999999996
+gaussian_sensory,temporal_cue_then_blank,one_hot,0,15,0.1836847028916921,0.040772620093333524,11,aliased_t_maze,lin_block_r1_l8,0.5
+gaussian_sensory,temporal_dropout,one_hot,0,15,0.12048570704484685,0.03588150773197306,12,aliased_t_maze,lin_block_r3_l8,0.5
+gaussian_sensory,temporal_full,one_hot,0,15,0.10014823090091905,0.033358502421827994,9,aliased_t_maze,lin_block_r1_l8,0.41666666666666674
+hybrid,temporal_cue_then_blank,one_hot,0,15,0.16686439406869516,0.039338920535289895,11,landmark_gap_detour,lin_block_r1_l8,0.5
+hybrid,temporal_dropout,one_hot,0,15,0.14725366181011343,0.042276405545847544,11,aliased_t_maze,lin_block_r5_l8,0.5
+hybrid,temporal_full,one_hot,0,15,0.0769980462587989,0.028782089697862112,9,aliased_t_maze,lin_block_r1_l8,0.41666666666666663
+sparse_aliased,temporal_cue_then_blank,one_hot,0,15,0.16484708193041525,0.04836071647784205,9,landmark_gap_detour,lin_block_r1_l8,0.6666666666666667
+sparse_aliased,temporal_dropout,one_hot,0,15,0.16321034849260654,0.05626844410039535,10,landmark_gap_detour,lin_block_r1_l8,0.6666666666666667
+sparse_aliased,temporal_full,one_hot,0,15,0.09395756722369626,0.027765893269491575,9,aliased_t_maze,lin_block_r1_l8,0.33333333333333337
+vector,temporal_cue_then_blank,one_hot,0,15,0.16686989583494957,0.039648017889310466,11,landmark_gap_detour,lin_block_r1_l8,0.5
+vector,temporal_dropout,one_hot,0,15,0.1757508456298779,0.04849103606351354,11,shortcut_route_choice,lin_block_r1_l8,0.6
+vector,temporal_full,one_hot,0,15,0.14397163519475345,0.03959167580009871,11,landmark_gap_detour,lin_block_r1_l8,0.5

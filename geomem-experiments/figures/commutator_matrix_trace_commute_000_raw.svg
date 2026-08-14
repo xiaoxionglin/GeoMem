@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="500" viewBox="0 0 520 500">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1f2933}.title{font-size:30px;font-weight:700}.label{font-size:18px}.cell{font-size:17px;font-weight:700}</style>
+<text class="title" x="35" y="35">Pairwise commutator: trace commute 000</text>
+<text class="label" x="35" y="58">Mode: raw; cell = Pr[AB(s) = BA(s)]</text>
+<text class="label" text-anchor="middle" x="141.0" y="81">A</text>
+<text class="label" text-anchor="middle" x="203.0" y="81">B</text>
+<text class="label" text-anchor="middle" x="265.0" y="81">C</text>
+<text class="label" text-anchor="end" x="96" y="130.0">A</text>
+<rect x="110.0" y="95.0" width="62.0" height="62.0" fill="rgb(196,78,82)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="141.0" y="130.0" fill="#ffffff">1.00</text>
+<rect x="172.0" y="95.0" width="62.0" height="62.0" fill="rgb(215,131,127)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="203.0" y="130.0" fill="#ffffff">0.67</text>
+<rect x="234.0" y="95.0" width="62.0" height="62.0" fill="rgb(215,131,127)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="265.0" y="130.0" fill="#ffffff">0.67</text>
+<text class="label" text-anchor="end" x="96" y="192.0">B</text>
+<rect x="110.0" y="157.0" width="62.0" height="62.0" fill="rgb(215,131,127)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="141.0" y="192.0" fill="#ffffff">0.67</text>
+<rect x="172.0" y="157.0" width="62.0" height="62.0" fill="rgb(196,78,82)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="203.0" y="192.0" fill="#ffffff">1.00</text>
+<rect x="234.0" y="157.0" width="62.0" height="62.0" fill="rgb(215,131,127)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="265.0" y="192.0" fill="#ffffff">0.67</text>
+<text class="label" text-anchor="end" x="96" y="254.0">C</text>
+<rect x="110.0" y="219.0" width="62.0" height="62.0" fill="rgb(215,131,127)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="141.0" y="254.0" fill="#ffffff">0.67</text>
+<rect x="172.0" y="219.0" width="62.0" height="62.0" fill="rgb(215,131,127)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="203.0" y="254.0" fill="#ffffff">0.67</text>
+<rect x="234.0" y="219.0" width="62.0" height="62.0" fill="rgb(196,78,82)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="265.0" y="254.0" fill="#ffffff">1.00</text>
+</svg>

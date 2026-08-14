@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="760" viewBox="0 0 1080 760">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1f2933}.title{font-size:32px;font-weight:700}.label{font-size:18px}.tick{font-size:16px;fill:#52606d}.value{font-size:16px;font-weight:700}</style>
+<text class="title" x="70" y="38">Best recurrent memory advantage</text>
+<text class="label" x="70" y="62">Best recurrent action accuracy minus best memoryless action accuracy; two dataset seeds, three reservoir seeds</text>
+<line x1="210" y1="261.0" x2="1020" y2="261.0" stroke="#9aa5b1" stroke-width="1"/>
+<rect x="215.9" y="229.4" width="25.0" height="31.7" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="228.4" y="224.4">+0.10</text>
+<text class="tick" text-anchor="end" x="250.4" y="516" transform="rotate(-36 250.4 516)">aliased loop rooms / hybrid</text>
+<rect x="252.7" y="213.5" width="25.0" height="47.5" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="265.2" y="208.5">+0.15</text>
+<text class="tick" text-anchor="end" x="287.2" y="516" transform="rotate(-36 287.2 516)">aliased loop rooms / sparse aliased</text>
+<rect x="289.5" y="247.0" width="25.0" height="14.1" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="302.0" y="242.0">+0.04</text>
+<text class="tick" text-anchor="end" x="324.0" y="516" transform="rotate(-36 324.0 516)">aliased rooms / hybrid</text>
+<rect x="326.3" y="176.6" width="25.0" height="84.5" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="338.9" y="171.6">+0.27</text>
+<text class="tick" text-anchor="end" x="360.9" y="516" transform="rotate(-36 360.9 516)">aliased rooms / sparse aliased</text>
+<rect x="363.2" y="164.2" width="25.0" height="96.8" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="375.7" y="159.2">+0.31</text>
+<text class="tick" text-anchor="end" x="397.7" y="516" transform="rotate(-36 397.7 516)">aliased t maze / hybrid</text>
+<rect x="400.0" y="155.4" width="25.0" height="105.6" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="412.5" y="150.4">+0.33</text>
+<text class="tick" text-anchor="end" x="434.5" y="516" transform="rotate(-36 434.5 516)">aliased t maze / sparse aliased</text>
+<rect x="436.8" y="261.0" width="25.0" height="1.0" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="449.3" y="256.0">+0.00</text>
+<text class="tick" text-anchor="end" x="471.3" y="516" transform="rotate(-36 471.3 516)">bottleneck rooms / hybrid</text>
+<rect x="473.6" y="239.9" width="25.0" height="21.1" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="486.1" y="234.9">+0.07</text>
+<text class="tick" text-anchor="end" x="508.1" y="516" transform="rotate(-36 508.1 516)">bottleneck rooms / sparse aliased</text>
+<rect x="510.4" y="137.8" width="25.0" height="123.2" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="523.0" y="132.8">+0.39</text>
+<text class="tick" text-anchor="end" x="545.0" y="516" transform="rotate(-36 545.0 516)">landmark gap detour / hybrid</text>
+<rect x="547.3" y="102.6" width="25.0" height="158.4" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="559.8" y="97.6">+0.50</text>
+<text class="tick" text-anchor="end" x="581.8" y="516" transform="rotate(-36 581.8 516)">landmark gap detour / sparse aliased</text>
+<rect x="584.1" y="261.0" width="25.0" height="1.0" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="596.6" y="256.0">+0.00</text>
+<text class="tick" text-anchor="end" x="618.6" y="516" transform="rotate(-36 618.6 516)">shortcut route choice / hybrid</text>
+<rect x="620.9" y="197.7" width="25.0" height="63.4" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="633.4" y="192.7">+0.20</text>
+<text class="tick" text-anchor="end" x="655.4" y="516" transform="rotate(-36 655.4 516)">shortcut route choice / sparse aliased</text>
+<rect x="657.7" y="227.1" width="25.0" height="33.9" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="670.2" y="222.1">+0.11</text>
+<text class="tick" text-anchor="end" x="692.2" y="516" transform="rotate(-36 692.2 516)">torus lattice / hybrid</text>
+<rect x="694.5" y="204.5" width="25.0" height="56.6" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="707.0" y="199.5">+0.18</text>
+<text class="tick" text-anchor="end" x="729.0" y="516" transform="rotate(-36 729.0 516)">torus lattice / sparse aliased</text>
+<rect x="731.3" y="261.0" width="25.0" height="1.0" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="743.9" y="256.0">+0.00</text>
+<text class="tick" text-anchor="end" x="765.9" y="516" transform="rotate(-36 765.9 516)">trace commute 000 / hybrid</text>
+<rect x="768.2" y="261.0" width="25.0" height="1.0" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="780.7" y="256.0">+0.00</text>
+<text class="tick" text-anchor="end" x="802.7" y="516" transform="rotate(-36 802.7 516)">trace commute 000 / sparse aliased</text>
+<rect x="805.0" y="201.6" width="25.0" height="59.4" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="817.5" y="196.6">+0.19</text>
+<text class="tick" text-anchor="end" x="839.5" y="516" transform="rotate(-36 839.5 516)">trace commute 067 / hybrid</text>
+<rect x="841.8" y="193.4" width="25.0" height="67.7" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="854.3" y="188.4">+0.21</text>
+<text class="tick" text-anchor="end" x="876.3" y="516" transform="rotate(-36 876.3 516)">trace commute 067 / sparse aliased</text>
+<rect x="878.6" y="178.7" width="25.0" height="82.4" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="891.1" y="173.7">+0.26</text>
+<text class="tick" text-anchor="end" x="913.1" y="516" transform="rotate(-36 913.1 516)">trace commute 100 / hybrid</text>
+<rect x="915.4" y="201.2" width="25.0" height="59.8" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="928.0" y="196.2">+0.19</text>
+<text class="tick" text-anchor="end" x="950.0" y="516" transform="rotate(-36 950.0 516)">trace commute 100 / sparse aliased</text>
+<rect x="952.3" y="260.4" width="25.0" height="1.0" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="964.8" y="255.4">+0.00</text>
+<text class="tick" text-anchor="end" x="986.8" y="516" transform="rotate(-36 986.8 516)">tree / hybrid</text>
+<rect x="989.1" y="261.0" width="25.0" height="1.0" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="1001.6" y="256.0">+0.00</text>
+<text class="tick" text-anchor="end" x="1023.6" y="516" transform="rotate(-36 1023.6 516)">tree / sparse aliased</text>
+<text class="label" text-anchor="end" x="198" y="265.0">0</text>
+</svg>

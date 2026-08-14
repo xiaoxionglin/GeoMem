@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="620" viewBox="0 0 1120 620">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,sans-serif;fill:#222} .title{font-size:28px;font-weight:700} .label{font-size:20px} .small{font-size:16px} .axis{stroke:#222;stroke-width:2} .grid{stroke:#ddd;stroke-width:1}</style>
+<text x="560.0" y="42" text-anchor="middle" class="title">Modulo-Phase Reconstruction</text>
+<line x1="100" y1="470.0" x2="1080" y2="470.0" class="grid"/>
+<text x="88" y="476.0" text-anchor="end" class="small">0.0</text>
+<line x1="100" y1="393.0" x2="1080" y2="393.0" class="grid"/>
+<text x="88" y="399.0" text-anchor="end" class="small">0.2</text>
+<line x1="100" y1="316.0" x2="1080" y2="316.0" class="grid"/>
+<text x="88" y="322.0" text-anchor="end" class="small">0.4</text>
+<line x1="100" y1="239.0" x2="1080" y2="239.0" class="grid"/>
+<text x="88" y="245.0" text-anchor="end" class="small">0.6</text>
+<line x1="100" y1="162.0" x2="1080" y2="162.0" class="grid"/>
+<text x="88" y="168.0" text-anchor="end" class="small">0.8</text>
+<line x1="100" y1="85.0" x2="1080" y2="85.0" class="grid"/>
+<text x="88" y="91.0" text-anchor="end" class="small">1.0</text>
+<rect x="116.3" y="85.0" width="76.2" height="385.0" fill="#e4572e"/>
+<text x="154.4" y="488" text-anchor="end" transform="rotate(-45 154.4 488)" class="small">matched phase osc T16</text>
+<rect x="225.2" y="88.0" width="76.2" height="382.0" fill="#1b6ca8"/>
+<text x="263.3" y="488" text-anchor="end" transform="rotate(-45 263.3 488)" class="small">nilpotent L96</text>
+<rect x="334.1" y="93.6" width="76.2" height="376.4" fill="#e4572e"/>
+<text x="372.2" y="488" text-anchor="end" transform="rotate(-45 372.2 488)" class="small">osc r099 m48</text>
+<rect x="443.0" y="160.9" width="76.2" height="309.1" fill="#1b6ca8"/>
+<text x="481.1" y="488" text-anchor="end" transform="rotate(-45 481.1 488)" class="small">nilpotent L64</text>
+<rect x="551.9" y="184.5" width="76.2" height="285.5" fill="#e4572e"/>
+<text x="590.0" y="488" text-anchor="end" transform="rotate(-45 590.0 488)" class="small">threshold osc r099 m48</text>
+<rect x="660.8" y="250.3" width="76.2" height="219.7" fill="#1b6ca8"/>
+<text x="698.9" y="488" text-anchor="end" transform="rotate(-45 698.9 488)" class="small">nilpotent L32</text>
+<rect x="769.7" y="287.7" width="76.2" height="182.3" fill="#e4572e"/>
+<text x="807.8" y="488" text-anchor="end" transform="rotate(-45 807.8 488)" class="small">osc r095 m16</text>
+<rect x="878.6" y="297.7" width="76.2" height="172.3" fill="#e4572e"/>
+<text x="916.7" y="488" text-anchor="end" transform="rotate(-45 916.7 488)" class="small">osc r090 m16</text>
+<rect x="987.4" y="348.4" width="76.2" height="121.6" fill="#e4572e"/>
+<text x="1025.6" y="488" text-anchor="end" transform="rotate(-45 1025.6 488)" class="small">osc r099 m16</text>
+<line x1="100" y1="470" x2="1080" y2="470" class="axis"/>
+<line x1="100" y1="85" x2="100" y2="470" class="axis"/>
+<text x="28" y="310.0" text-anchor="middle" transform="rotate(-90 28 310.0)" class="label">phase alignment</text>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="760" viewBox="0 0 1050 760">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1f2933}.title{font-size:30px;font-weight:700}.subtitle{font-size:17px;fill:#52606d}.label{font-size:16px}.small{font-size:13px;fill:#52606d}.value{font-size:14px;font-weight:700}.axis{stroke:#cbd5e1;stroke-width:1}</style>
+<text class="title" x="48" y="40">Best Model By Task Under Gaussian Sensory</text>
+<text class="subtitle" x="48" y="66">temporal_full schedule; bars show best mean action accuracy for each task.</text>
+<line x1="400.0" y1="82" x2="400.0" y2="662" stroke="#e2e8f0" stroke-width="1"/>
+<text class="small" text-anchor="middle" x="400.0" y="686">0.25</text>
+<line x1="530.0" y1="82" x2="530.0" y2="662" stroke="#e2e8f0" stroke-width="1"/>
+<text class="small" text-anchor="middle" x="530.0" y="686">0.50</text>
+<line x1="660.0" y1="82" x2="660.0" y2="662" stroke="#e2e8f0" stroke-width="1"/>
+<text class="small" text-anchor="middle" x="660.0" y="686">0.75</text>
+<line x1="790.0" y1="82" x2="790.0" y2="662" stroke="#e2e8f0" stroke-width="1"/>
+<text class="small" text-anchor="middle" x="790.0" y="686">1.00</text>
+<text class="label" text-anchor="end" x="256" y="115">torus lattice</text>
+<rect x="270" y="97" width="197.0" height="24" fill="#15803d" rx="2"/>
+<text class="value" x="475.0" y="115">0.379  reservoir diagonal</text>
+<text class="label" text-anchor="end" x="256" y="153">aliased loop rooms</text>
+<rect x="270" y="135" width="294.7" height="24" fill="#15803d" rx="2"/>
+<text class="value" x="572.7" y="153">0.567  reservoir diagonal</text>
+<text class="label" text-anchor="end" x="256" y="191">shortcut tree 100</text>
+<rect x="270" y="173" width="349.6" height="24" fill="#2563eb" rx="2"/>
+<text class="value" x="627.6" y="191">0.672  numpy rnn</text>
+<text class="label" text-anchor="end" x="256" y="229">room graph loop rich</text>
+<rect x="270" y="211" width="377.4" height="24" fill="#6b7280" rx="2"/>
+<text class="value" x="655.4" y="229">0.726  memoryless linear</text>
+<text class="label" text-anchor="end" x="256" y="267">aliased rooms</text>
+<rect x="270" y="249" width="387.1" height="24" fill="#c2410c" rx="2"/>
+<text class="value" x="665.1" y="267">0.744  lin sequence front bands r1 l8</text>
+<text class="label" text-anchor="end" x="256" y="305">bottleneck rooms</text>
+<rect x="270" y="287" width="387.1" height="24" fill="#15803d" rx="2"/>
+<text class="value" x="665.1" y="305">0.744  reservoir diagonal</text>
+<text class="label" text-anchor="end" x="256" y="343">clamped lattice</text>
+<rect x="270" y="325" width="405.8" height="24" fill="#c2410c" rx="2"/>
+<text class="value" x="683.8" y="343">0.780  lin sequence front bands r5 l8</text>
+<text class="label" text-anchor="end" x="256" y="381">room graph tree like</text>
+<rect x="270" y="363" width="408.6" height="24" fill="#15803d" rx="2"/>
+<text class="value" x="686.6" y="381">0.786  reservoir diagonal</text>
+<text class="label" text-anchor="end" x="256" y="419">room graph bottleneck</text>
+<rect x="270" y="401" width="427.9" height="24" fill="#15803d" rx="2"/>
+<text class="value" x="705.9" y="419">0.823  reservoir diagonal</text>
+<text class="label" text-anchor="end" x="256" y="457">shortcut tree 050</text>
+<rect x="270" y="439" width="441.0" height="24" fill="#15803d" rx="2"/>
+<text class="value" x="719.0" y="457">0.848  reservoir diagonal</text>
+<text class="label" text-anchor="end" x="256" y="495">landmark gap detour</text>
+<rect x="270" y="477" width="462.2" height="24" fill="#15803d" rx="2"/>
+<text class="value" x="740.2" y="495">0.889  reservoir random</text>
+<text class="label" text-anchor="end" x="256" y="533">shortcut tree 025</text>
+<rect x="270" y="515" width="485.3" height="24" fill="#2563eb" rx="2"/>
+<text class="value" x="763.3" y="533">0.933  numpy rnn</text>
+<text class="label" text-anchor="end" x="256" y="571">tree</text>
+<rect x="270" y="553" width="505.6" height="24" fill="#c2410c" rx="2"/>
+<text class="value" x="783.6" y="571">0.972  lin sequence all units r3 l4</text>
+<text class="label" text-anchor="end" x="256" y="609">aliased t maze</text>
+<rect x="270" y="591" width="520.0" height="24" fill="#c2410c" rx="2"/>
+<text class="value" x="798.0" y="609">1.000  lin sequence front bands r1 l8</text>
+<text class="label" text-anchor="end" x="256" y="647">shortcut route choice</text>
+<rect x="270" y="629" width="520.0" height="24" fill="#c2410c" rx="2"/>
+<text class="value" x="798.0" y="647">1.000  lin sequence front bands r1 l8</text>
+<rect x="270" y="716" width="15" height="15" fill="#6b7280" rx="2"/>
+<text class="small" x="292" y="729">memoryless</text>
+<rect x="410" y="716" width="15" height="15" fill="#2563eb" rx="2"/>
+<text class="small" x="432" y="729">rnn</text>
+<rect x="550" y="716" width="15" height="15" fill="#15803d" rx="2"/>
+<text class="small" x="572" y="729">reservoir</text>
+<rect x="690" y="716" width="15" height="15" fill="#c2410c" rx="2"/>
+<text class="small" x="712" y="729">lin</text>
+</svg>

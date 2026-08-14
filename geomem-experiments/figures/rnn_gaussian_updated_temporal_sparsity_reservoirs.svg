@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="470" viewBox="0 0 760 470">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1f2933}.title{font-size:31px;font-weight:700}.label{font-size:18px}.cell{font-size:18px;font-weight:700}</style>
+<text class="title" x="56" y="38">Temporal sparsity x reservoir type</text>
+<text class="label" x="56" y="62">Mean action accuracy across tasks; observation mode = sparse_aliased</text>
+<text class="label" text-anchor="end" x="183" y="111.0">random</text>
+<rect x="195.0" y="84.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="280.8" y="111.0" fill="#1f2933">NA</text>
+<rect x="366.7" y="84.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="452.5" y="111.0" fill="#1f2933">NA</text>
+<rect x="538.3" y="84.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="624.2" y="111.0" fill="#1f2933">NA</text>
+<text class="label" text-anchor="end" x="183" y="155.0">symmetric</text>
+<rect x="195.0" y="128.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="280.8" y="155.0" fill="#1f2933">NA</text>
+<rect x="366.7" y="128.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="452.5" y="155.0" fill="#1f2933">NA</text>
+<rect x="538.3" y="128.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="624.2" y="155.0" fill="#1f2933">NA</text>
+<text class="label" text-anchor="end" x="183" y="199.0">oscillatory</text>
+<rect x="195.0" y="172.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="280.8" y="199.0" fill="#1f2933">NA</text>
+<rect x="366.7" y="172.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="452.5" y="199.0" fill="#1f2933">NA</text>
+<rect x="538.3" y="172.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="624.2" y="199.0" fill="#1f2933">NA</text>
+<text class="label" text-anchor="end" x="183" y="243.0">orthogonal</text>
+<rect x="195.0" y="216.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="280.8" y="243.0" fill="#1f2933">NA</text>
+<rect x="366.7" y="216.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="452.5" y="243.0" fill="#1f2933">NA</text>
+<rect x="538.3" y="216.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="624.2" y="243.0" fill="#1f2933">NA</text>
+<text class="label" text-anchor="end" x="183" y="287.0">nilpotent</text>
+<rect x="195.0" y="260.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="280.8" y="287.0" fill="#1f2933">NA</text>
+<rect x="366.7" y="260.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="452.5" y="287.0" fill="#1f2933">NA</text>
+<rect x="538.3" y="260.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="624.2" y="287.0" fill="#1f2933">NA</text>
+<text class="label" text-anchor="end" x="183" y="331.0">diagonal</text>
+<rect x="195.0" y="304.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="280.8" y="331.0" fill="#1f2933">NA</text>
+<rect x="366.7" y="304.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="452.5" y="331.0" fill="#1f2933">NA</text>
+<rect x="538.3" y="304.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="624.2" y="331.0" fill="#1f2933">NA</text>
+<text class="label" text-anchor="end" x="183" y="375.0">block hybrid</text>
+<rect x="195.0" y="348.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="280.8" y="375.0" fill="#1f2933">NA</text>
+<rect x="366.7" y="348.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="452.5" y="375.0" fill="#1f2933">NA</text>
+<rect x="538.3" y="348.0" width="171.7" height="44.0" fill="#f5f7fa" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="624.2" y="375.0" fill="#1f2933">NA</text>
+<text class="label" text-anchor="middle" x="280.8" y="435">full</text>
+<text class="label" text-anchor="middle" x="452.5" y="435">dropout</text>
+<text class="label" text-anchor="middle" x="624.2" y="435">cue then blank</text>
+</svg>

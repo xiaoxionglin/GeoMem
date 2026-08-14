@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="430" viewBox="0 0 820 430">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1f2933}.title{font-size:32px;font-weight:700}.label{font-size:19px}.tick{font-size:17px;fill:#52606d}.cell{font-size:18px;font-weight:700}</style>
+<text class="title" x="80" y="38">Observation transition ambiguity</text>
+<text class="label" x="80" y="60">Cell = weighted fraction of observation-action pairs with multiple latent next states</text>
+<text class="label" text-anchor="end" x="166" y="120.0">trace commute 000</text>
+<rect x="180.0" y="80.0" width="147.5" height="70.0" fill="rgb(255,247,237)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="253.8" y="120.0" fill="#1f2933">0.00</text>
+<rect x="327.5" y="80.0" width="147.5" height="70.0" fill="rgb(194,66,14)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="401.2" y="120.0" fill="#ffffff">0.99</text>
+<rect x="475.0" y="80.0" width="147.5" height="70.0" fill="rgb(194,65,12)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="548.8" y="120.0" fill="#ffffff">1.00</text>
+<rect x="622.5" y="80.0" width="147.5" height="70.0" fill="rgb(194,65,12)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="696.2" y="120.0" fill="#ffffff">1.00</text>
+<text class="label" text-anchor="end" x="166" y="190.0">trace commute 033</text>
+<rect x="180.0" y="150.0" width="147.5" height="70.0" fill="rgb(255,247,237)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="253.8" y="190.0" fill="#1f2933">0.00</text>
+<rect x="327.5" y="150.0" width="147.5" height="70.0" fill="rgb(196,70,18)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="401.2" y="190.0" fill="#ffffff">0.97</text>
+<rect x="475.0" y="150.0" width="147.5" height="70.0" fill="rgb(194,65,13)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="548.8" y="190.0" fill="#ffffff">1.00</text>
+<rect x="622.5" y="150.0" width="147.5" height="70.0" fill="rgb(194,65,12)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="696.2" y="190.0" fill="#ffffff">1.00</text>
+<text class="label" text-anchor="end" x="166" y="260.0">trace commute 067</text>
+<rect x="180.0" y="220.0" width="147.5" height="70.0" fill="rgb(255,247,237)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="253.8" y="260.0" fill="#1f2933">0.00</text>
+<rect x="327.5" y="220.0" width="147.5" height="70.0" fill="rgb(202,88,41)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="401.2" y="260.0" fill="#ffffff">0.87</text>
+<rect x="475.0" y="220.0" width="147.5" height="70.0" fill="rgb(195,69,16)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="548.8" y="260.0" fill="#ffffff">0.98</text>
+<rect x="622.5" y="220.0" width="147.5" height="70.0" fill="rgb(194,65,12)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="696.2" y="260.0" fill="#ffffff">1.00</text>
+<text class="label" text-anchor="end" x="166" y="330.0">trace commute 100</text>
+<rect x="180.0" y="290.0" width="147.5" height="70.0" fill="rgb(255,247,237)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="253.8" y="330.0" fill="#1f2933">0.00</text>
+<rect x="327.5" y="290.0" width="147.5" height="70.0" fill="rgb(255,247,237)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="401.2" y="330.0" fill="#1f2933">0.00</text>
+<rect x="475.0" y="290.0" width="147.5" height="70.0" fill="rgb(199,80,31)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="548.8" y="330.0" fill="#ffffff">0.92</text>
+<rect x="622.5" y="290.0" width="147.5" height="70.0" fill="rgb(195,67,14)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="696.2" y="330.0" fill="#ffffff">0.99</text>
+<text class="tick" text-anchor="middle" x="253.8" y="395">full</text>
+<text class="tick" text-anchor="middle" x="401.2" y="395">counts</text>
+<text class="tick" text-anchor="middle" x="548.8" y="395">depth_last</text>
+<text class="tick" text-anchor="middle" x="696.2" y="395">depth</text>
+</svg>

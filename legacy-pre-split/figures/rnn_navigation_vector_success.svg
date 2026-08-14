@@ -1,0 +1,201 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="720" viewBox="0 0 1320 720">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1f2933}.title{font-size:32px;font-weight:700}.label{font-size:19px}.tick{font-size:17px;fill:#52606d}.cell{font-size:18px;font-weight:700}</style>
+<text class="title" x="70" y="38">RNN/reservoir navigation benchmark: vector / temporal_full</text>
+<text class="label" x="70" y="62">Cell = greedy success; supervised shortest-path imitation</text>
+<text class="label" text-anchor="end" x="231" y="121.9">memoryless linear</text>
+<rect x="245.0" y="92.0" width="75.0" height="49.8" fill="rgb(163,211,176)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="282.5" y="121.9" fill="#1f2933">0.39</text>
+<rect x="320.0" y="92.0" width="75.0" height="49.8" fill="rgb(215,229,214)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="357.5" y="121.9" fill="#1f2933">0.17</text>
+<rect x="395.0" y="92.0" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="432.5" y="121.9" fill="#1f2933">0.00</text>
+<rect x="470.0" y="92.0" width="75.0" height="49.8" fill="rgb(184,218,192)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="507.5" y="121.9" fill="#1f2933">0.30</text>
+<rect x="545.0" y="92.0" width="75.0" height="49.8" fill="rgb(215,229,214)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="582.5" y="121.9" fill="#1f2933">0.17</text>
+<rect x="620.0" y="92.0" width="75.0" height="49.8" fill="rgb(196,222,200)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="657.5" y="121.9" fill="#1f2933">0.25</text>
+<rect x="695.0" y="92.0" width="75.0" height="49.8" fill="rgb(208,226,208)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="732.5" y="121.9" fill="#1f2933">0.20</text>
+<rect x="770.0" y="92.0" width="75.0" height="49.8" fill="rgb(173,214,183)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="807.5" y="121.9" fill="#1f2933">0.35</text>
+<rect x="845.0" y="92.0" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="882.5" y="121.9" fill="#1f2933">0.00</text>
+<rect x="920.0" y="92.0" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="957.5" y="121.9" fill="#1f2933">0.00</text>
+<rect x="995.0" y="92.0" width="75.0" height="49.8" fill="rgb(248,240,238)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="1032.5" y="121.9" fill="#1f2933">0.03</text>
+<text class="label" text-anchor="end" x="231" y="171.6">memoryless mlp</text>
+<rect x="245.0" y="141.8" width="75.0" height="49.8" fill="rgb(163,211,176)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="282.5" y="171.6" fill="#1f2933">0.39</text>
+<rect x="320.0" y="141.8" width="75.0" height="49.8" fill="rgb(215,229,214)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="357.5" y="171.6" fill="#1f2933">0.17</text>
+<rect x="395.0" y="141.8" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="432.5" y="171.6" fill="#1f2933">0.00</text>
+<rect x="470.0" y="141.8" width="75.0" height="49.8" fill="rgb(184,218,192)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="507.5" y="171.6" fill="#1f2933">0.30</text>
+<rect x="545.0" y="141.8" width="75.0" height="49.8" fill="rgb(215,229,214)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="582.5" y="171.6" fill="#1f2933">0.17</text>
+<rect x="620.0" y="141.8" width="75.0" height="49.8" fill="rgb(196,222,200)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="657.5" y="171.6" fill="#1f2933">0.25</text>
+<rect x="695.0" y="141.8" width="75.0" height="49.8" fill="rgb(208,226,208)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="732.5" y="171.6" fill="#1f2933">0.20</text>
+<rect x="770.0" y="141.8" width="75.0" height="49.8" fill="rgb(173,214,183)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="807.5" y="171.6" fill="#1f2933">0.35</text>
+<rect x="845.0" y="141.8" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="882.5" y="171.6" fill="#1f2933">0.00</text>
+<rect x="920.0" y="141.8" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="957.5" y="171.6" fill="#1f2933">0.00</text>
+<rect x="995.0" y="141.8" width="75.0" height="49.8" fill="rgb(248,240,238)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="1032.5" y="171.6" fill="#1f2933">0.03</text>
+<text class="label" text-anchor="end" x="231" y="221.4">numpy rnn</text>
+<rect x="245.0" y="191.5" width="75.0" height="49.8" fill="rgb(213,228,212)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="282.5" y="221.4" fill="#1f2933">0.18</text>
+<rect x="320.0" y="191.5" width="75.0" height="49.8" fill="rgb(239,237,231)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="357.5" y="221.4" fill="#1f2933">0.07</text>
+<rect x="395.0" y="191.5" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="432.5" y="221.4" fill="#1f2933">0.00</text>
+<rect x="470.0" y="191.5" width="75.0" height="49.8" fill="rgb(215,229,214)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="507.5" y="221.4" fill="#1f2933">0.17</text>
+<rect x="545.0" y="191.5" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="582.5" y="221.4" fill="#1f2933">0.00</text>
+<rect x="620.0" y="191.5" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="657.5" y="221.4" fill="#1f2933">0.00</text>
+<rect x="695.0" y="191.5" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="732.5" y="221.4" fill="#1f2933">0.00</text>
+<rect x="770.0" y="191.5" width="75.0" height="49.8" fill="rgb(196,222,200)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="807.5" y="221.4" fill="#1f2933">0.25</text>
+<rect x="845.0" y="191.5" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="882.5" y="221.4" fill="#1f2933">0.00</text>
+<rect x="920.0" y="191.5" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="957.5" y="221.4" fill="#1f2933">0.00</text>
+<rect x="995.0" y="191.5" width="75.0" height="49.8" fill="rgb(242,238,234)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="1032.5" y="221.4" fill="#1f2933">0.05</text>
+<text class="label" text-anchor="end" x="231" y="271.1">reservoir random</text>
+<rect x="245.0" y="241.2" width="75.0" height="49.8" fill="rgb(138,202,158)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="282.5" y="271.1" fill="#1f2933">0.50</text>
+<rect x="320.0" y="241.2" width="75.0" height="49.8" fill="rgb(177,216,186)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="357.5" y="271.1" fill="#1f2933">0.33</text>
+<rect x="395.0" y="241.2" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="432.5" y="271.1" fill="#1f2933">0.00</text>
+<rect x="470.0" y="241.2" width="75.0" height="49.8" fill="rgb(174,215,184)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="507.5" y="271.1" fill="#1f2933">0.34</text>
+<rect x="545.0" y="241.2" width="75.0" height="49.8" fill="rgb(93,187,125)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="582.5" y="271.1" fill="#ffffff">0.69</text>
+<rect x="620.0" y="241.2" width="75.0" height="49.8" fill="rgb(138,202,158)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="657.5" y="271.1" fill="#1f2933">0.50</text>
+<rect x="695.0" y="241.2" width="75.0" height="49.8" fill="rgb(130,200,152)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="732.5" y="271.1" fill="#1f2933">0.53</text>
+<rect x="770.0" y="241.2" width="75.0" height="49.8" fill="rgb(161,210,175)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="807.5" y="271.1" fill="#1f2933">0.40</text>
+<rect x="845.0" y="241.2" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="882.5" y="271.1" fill="#1f2933">0.00</text>
+<rect x="920.0" y="241.2" width="75.0" height="49.8" fill="rgb(252,241,241)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="957.5" y="271.1" fill="#1f2933">0.01</text>
+<rect x="995.0" y="241.2" width="75.0" height="49.8" fill="rgb(227,233,222)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="1032.5" y="271.1" fill="#1f2933">0.12</text>
+<text class="label" text-anchor="end" x="231" y="320.9">reservoir symmetric</text>
+<rect x="245.0" y="291.0" width="75.0" height="49.8" fill="rgb(132,201,154)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="282.5" y="320.9" fill="#1f2933">0.52</text>
+<rect x="320.0" y="291.0" width="75.0" height="49.8" fill="rgb(135,202,156)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="357.5" y="320.9" fill="#1f2933">0.51</text>
+<rect x="395.0" y="291.0" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="432.5" y="320.9" fill="#1f2933">0.00</text>
+<rect x="470.0" y="291.0" width="75.0" height="49.8" fill="rgb(130,200,152)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="507.5" y="320.9" fill="#1f2933">0.53</text>
+<rect x="545.0" y="291.0" width="75.0" height="49.8" fill="rgb(138,202,158)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="582.5" y="320.9" fill="#1f2933">0.50</text>
+<rect x="620.0" y="291.0" width="75.0" height="49.8" fill="rgb(177,216,186)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="657.5" y="320.9" fill="#1f2933">0.33</text>
+<rect x="695.0" y="291.0" width="75.0" height="49.8" fill="rgb(161,210,175)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="732.5" y="320.9" fill="#1f2933">0.40</text>
+<rect x="770.0" y="291.0" width="75.0" height="49.8" fill="rgb(165,212,178)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="807.5" y="320.9" fill="#1f2933">0.38</text>
+<rect x="845.0" y="291.0" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="882.5" y="320.9" fill="#1f2933">0.00</text>
+<rect x="920.0" y="291.0" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="957.5" y="320.9" fill="#1f2933">0.00</text>
+<rect x="995.0" y="291.0" width="75.0" height="49.8" fill="rgb(227,233,222)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="1032.5" y="320.9" fill="#1f2933">0.12</text>
+<text class="label" text-anchor="end" x="231" y="370.6">reservoir oscillatory</text>
+<rect x="245.0" y="340.8" width="75.0" height="49.8" fill="rgb(130,200,152)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="282.5" y="370.6" fill="#1f2933">0.54</text>
+<rect x="320.0" y="340.8" width="75.0" height="49.8" fill="rgb(161,210,175)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="357.5" y="370.6" fill="#1f2933">0.40</text>
+<rect x="395.0" y="340.8" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="432.5" y="370.6" fill="#1f2933">0.00</text>
+<rect x="470.0" y="340.8" width="75.0" height="49.8" fill="rgb(172,214,182)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="507.5" y="370.6" fill="#1f2933">0.36</text>
+<rect x="545.0" y="340.8" width="75.0" height="49.8" fill="rgb(138,202,158)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="582.5" y="370.6" fill="#1f2933">0.50</text>
+<rect x="620.0" y="340.8" width="75.0" height="49.8" fill="rgb(170,213,181)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="657.5" y="370.6" fill="#1f2933">0.36</text>
+<rect x="695.0" y="340.8" width="75.0" height="49.8" fill="rgb(138,202,158)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="732.5" y="370.6" fill="#1f2933">0.50</text>
+<rect x="770.0" y="340.8" width="75.0" height="49.8" fill="rgb(165,212,178)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="807.5" y="370.6" fill="#1f2933">0.38</text>
+<rect x="845.0" y="340.8" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="882.5" y="370.6" fill="#1f2933">0.00</text>
+<rect x="920.0" y="340.8" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="957.5" y="370.6" fill="#1f2933">0.00</text>
+<rect x="995.0" y="340.8" width="75.0" height="49.8" fill="rgb(223,231,220)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="1032.5" y="370.6" fill="#1f2933">0.13</text>
+<text class="label" text-anchor="end" x="231" y="420.4">reservoir nilpotent</text>
+<rect x="245.0" y="390.5" width="75.0" height="49.8" fill="rgb(132,201,154)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="282.5" y="420.4" fill="#1f2933">0.52</text>
+<rect x="320.0" y="390.5" width="75.0" height="49.8" fill="rgb(177,216,186)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="357.5" y="420.4" fill="#1f2933">0.33</text>
+<rect x="395.0" y="390.5" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="432.5" y="420.4" fill="#1f2933">0.00</text>
+<rect x="470.0" y="390.5" width="75.0" height="49.8" fill="rgb(174,215,184)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="507.5" y="420.4" fill="#1f2933">0.34</text>
+<rect x="545.0" y="390.5" width="75.0" height="49.8" fill="rgb(41,170,88)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="582.5" y="420.4" fill="#ffffff">0.92</text>
+<rect x="620.0" y="390.5" width="75.0" height="49.8" fill="rgb(99,189,130)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="657.5" y="420.4" fill="#ffffff">0.67</text>
+<rect x="695.0" y="390.5" width="75.0" height="49.8" fill="rgb(115,195,141)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="732.5" y="420.4" fill="#ffffff">0.60</text>
+<rect x="770.0" y="390.5" width="75.0" height="49.8" fill="rgb(157,209,172)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="807.5" y="420.4" fill="#1f2933">0.42</text>
+<rect x="845.0" y="390.5" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="882.5" y="420.4" fill="#1f2933">0.00</text>
+<rect x="920.0" y="390.5" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="957.5" y="420.4" fill="#1f2933">0.00</text>
+<rect x="995.0" y="390.5" width="75.0" height="49.8" fill="rgb(235,235,228)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="1032.5" y="420.4" fill="#1f2933">0.08</text>
+<text class="label" text-anchor="end" x="231" y="470.1">reservoir block hybrid</text>
+<rect x="245.0" y="440.2" width="75.0" height="49.8" fill="rgb(97,188,128)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="282.5" y="470.1" fill="#ffffff">0.68</text>
+<rect x="320.0" y="440.2" width="75.0" height="49.8" fill="rgb(172,214,182)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="357.5" y="470.1" fill="#1f2933">0.36</text>
+<rect x="395.0" y="440.2" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="432.5" y="470.1" fill="#1f2933">0.00</text>
+<rect x="470.0" y="440.2" width="75.0" height="49.8" fill="rgb(174,215,184)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="507.5" y="470.1" fill="#1f2933">0.34</text>
+<rect x="545.0" y="440.2" width="75.0" height="49.8" fill="rgb(93,187,125)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="582.5" y="470.1" fill="#ffffff">0.69</text>
+<rect x="620.0" y="440.2" width="75.0" height="49.8" fill="rgb(132,200,153)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="657.5" y="470.1" fill="#1f2933">0.53</text>
+<rect x="695.0" y="440.2" width="75.0" height="49.8" fill="rgb(130,200,152)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="732.5" y="470.1" fill="#1f2933">0.53</text>
+<rect x="770.0" y="440.2" width="75.0" height="49.8" fill="rgb(157,209,172)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="807.5" y="470.1" fill="#1f2933">0.42</text>
+<rect x="845.0" y="440.2" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="882.5" y="470.1" fill="#1f2933">0.00</text>
+<rect x="920.0" y="440.2" width="75.0" height="49.8" fill="rgb(254,242,242)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="957.5" y="470.1" fill="#1f2933">0.00</text>
+<rect x="995.0" y="440.2" width="75.0" height="49.8" fill="rgb(227,233,222)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="1032.5" y="470.1" fill="#1f2933">0.12</text>
+<text class="tick" text-anchor="end" x="308.5" y="575" transform="rotate(-32 308.5 575)">torus lattice</text>
+<text class="tick" text-anchor="end" x="383.5" y="575" transform="rotate(-32 383.5 575)">bottleneck rooms</text>
+<text class="tick" text-anchor="end" x="458.5" y="575" transform="rotate(-32 458.5 575)">tree</text>
+<text class="tick" text-anchor="end" x="533.5" y="575" transform="rotate(-32 533.5 575)">aliased rooms</text>
+<text class="tick" text-anchor="end" x="608.5" y="575" transform="rotate(-32 608.5 575)">aliased t maze</text>
+<text class="tick" text-anchor="end" x="683.5" y="575" transform="rotate(-32 683.5 575)">landmark gap detour</text>
+<text class="tick" text-anchor="end" x="758.5" y="575" transform="rotate(-32 758.5 575)">shortcut route choice</text>
+<text class="tick" text-anchor="end" x="833.5" y="575" transform="rotate(-32 833.5 575)">aliased loop rooms</text>
+<text class="tick" text-anchor="end" x="908.5" y="575" transform="rotate(-32 908.5 575)">trace commute 000</text>
+<text class="tick" text-anchor="end" x="983.5" y="575" transform="rotate(-32 983.5 575)">trace commute 067</text>
+<text class="tick" text-anchor="end" x="1058.5" y="575" transform="rotate(-32 1058.5 575)">trace commute 100</text>
+</svg>

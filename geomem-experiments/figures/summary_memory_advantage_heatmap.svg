@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="510" viewBox="0 0 920 510">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1f2933}.title{font-size:30px;font-weight:700}.subtitle{font-size:17px;fill:#52606d}.label{font-size:16px}.small{font-size:13px;fill:#52606d}.value{font-size:14px;font-weight:700}.axis{stroke:#cbd5e1;stroke-width:1}</style>
+<text class="title" x="48" y="40">Where Does Model Memory Help?</text>
+<text class="subtitle" x="48" y="66">Mean best recurrent/sequence accuracy minus best memoryless accuracy across 15 tasks.</text>
+<text class="label" text-anchor="middle" x="290.0" y="79">No masking</text>
+<text class="label" text-anchor="middle" x="500.0" y="79">Dropout p=0.5</text>
+<text class="label" text-anchor="middle" x="710.0" y="79">Cue then blank</text>
+<text class="label" text-anchor="end" x="171" y="139.0">Gaussian sensory</text>
+<rect x="185.0" y="105.0" width="210.0" height="58.0" fill="rgb(140,192,161)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="290.0" y="129.0">0.086</text>
+<text class="small" text-anchor="middle" x="290.0" y="148.0">8/15 tasks positive</text>
+<rect x="395.0" y="105.0" width="210.0" height="58.0" fill="rgb(120,181,144)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="500.0" y="129.0">0.102</text>
+<text class="small" text-anchor="middle" x="500.0" y="148.0">10/15 tasks positive</text>
+<rect x="605.0" y="105.0" width="210.0" height="58.0" fill="rgb(41,139,78)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="710.0" y="129.0">0.164</text>
+<text class="small" text-anchor="middle" x="710.0" y="148.0">11/15 tasks positive</text>
+<text class="label" text-anchor="end" x="171" y="197.0">Vector</text>
+<rect x="185.0" y="163.0" width="210.0" height="58.0" fill="rgb(84,162,114)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="290.0" y="187.0">0.130</text>
+<text class="small" text-anchor="middle" x="290.0" y="206.0">11/15 tasks positive</text>
+<rect x="395.0" y="163.0" width="210.0" height="58.0" fill="rgb(41,139,78)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="500.0" y="187.0">0.164</text>
+<text class="small" text-anchor="middle" x="500.0" y="206.0">11/15 tasks positive</text>
+<rect x="605.0" y="163.0" width="210.0" height="58.0" fill="rgb(57,148,92)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="710.0" y="187.0">0.151</text>
+<text class="small" text-anchor="middle" x="710.0" y="206.0">11/15 tasks positive</text>
+<text class="label" text-anchor="end" x="171" y="255.0">Sparse aliased</text>
+<rect x="185.0" y="221.0" width="210.0" height="58.0" fill="rgb(143,194,164)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="290.0" y="245.0">0.083</text>
+<text class="small" text-anchor="middle" x="290.0" y="264.0">9/15 tasks positive</text>
+<rect x="395.0" y="221.0" width="210.0" height="58.0" fill="rgb(88,164,117)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="500.0" y="245.0">0.127</text>
+<text class="small" text-anchor="middle" x="500.0" y="264.0">9/15 tasks positive</text>
+<rect x="605.0" y="221.0" width="210.0" height="58.0" fill="rgb(57,147,91)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="710.0" y="245.0">0.152</text>
+<text class="small" text-anchor="middle" x="710.0" y="264.0">9/15 tasks positive</text>
+<text class="label" text-anchor="end" x="171" y="313.0">Egocentric</text>
+<rect x="185.0" y="279.0" width="210.0" height="58.0" fill="rgb(199,224,211)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="290.0" y="303.0">0.039</text>
+<text class="small" text-anchor="middle" x="290.0" y="322.0">7/15 tasks positive</text>
+<rect x="395.0" y="279.0" width="210.0" height="58.0" fill="rgb(154,199,173)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="500.0" y="303.0">0.075</text>
+<text class="small" text-anchor="middle" x="500.0" y="322.0">8/15 tasks positive</text>
+<rect x="605.0" y="279.0" width="210.0" height="58.0" fill="rgb(42,139,79)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="710.0" y="303.0">0.163</text>
+<text class="small" text-anchor="middle" x="710.0" y="322.0">10/15 tasks positive</text>
+<text class="label" text-anchor="end" x="171" y="371.0">Hybrid</text>
+<rect x="185.0" y="337.0" width="210.0" height="58.0" fill="rgb(166,206,183)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="290.0" y="361.0">0.065</text>
+<text class="small" text-anchor="middle" x="290.0" y="380.0">7/15 tasks positive</text>
+<rect x="395.0" y="337.0" width="210.0" height="58.0" fill="rgb(102,171,129)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="500.0" y="361.0">0.116</text>
+<text class="small" text-anchor="middle" x="500.0" y="380.0">10/15 tasks positive</text>
+<rect x="605.0" y="337.0" width="210.0" height="58.0" fill="rgb(61,149,95)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="710.0" y="361.0">0.148</text>
+<text class="small" text-anchor="middle" x="710.0" y="380.0">11/15 tasks positive</text>
+<text class="small" x="48" y="455">Positive means a memory-bearing model outperformed the best current-frame memoryless baseline.</text>
+</svg>

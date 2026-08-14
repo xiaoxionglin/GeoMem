@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1f2933}.title{font-size:32px;font-weight:700}.label{font-size:19px}.tick{font-size:17px;fill:#52606d}.cell{font-size:18px;font-weight:700}</style>
+<text class="title" x="80" y="38">Supervised policy benchmark: shallow_deep</text>
+<text class="label" x="80" y="60">Cell = exact accuracy; table classifiers with history length 4</text>
+<text class="label" text-anchor="end" x="231" y="121.7">full state</text>
+<rect x="245.0" y="90.0" width="171.2" height="53.3" fill="rgb(177,216,186)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="330.6" y="121.7" fill="#1f2933">0.33</text>
+<rect x="416.2" y="90.0" width="171.2" height="53.3" fill="rgb(165,212,178)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="501.9" y="121.7" fill="#1f2933">0.38</text>
+<rect x="587.5" y="90.0" width="171.2" height="53.3" fill="rgb(167,212,179)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="673.1" y="121.7" fill="#1f2933">0.38</text>
+<rect x="758.8" y="90.0" width="171.2" height="53.3" fill="rgb(170,213,181)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="844.4" y="121.7" fill="#1f2933">0.36</text>
+<text class="label" text-anchor="end" x="231" y="175.0">memoryless counts</text>
+<rect x="245.0" y="143.3" width="171.2" height="53.3" fill="rgb(177,216,186)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="330.6" y="175.0" fill="#1f2933">0.33</text>
+<rect x="416.2" y="143.3" width="171.2" height="53.3" fill="rgb(165,212,178)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="501.9" y="175.0" fill="#1f2933">0.38</text>
+<rect x="587.5" y="143.3" width="171.2" height="53.3" fill="rgb(167,212,179)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="673.1" y="175.0" fill="#1f2933">0.38</text>
+<rect x="758.8" y="143.3" width="171.2" height="53.3" fill="rgb(170,213,181)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="844.4" y="175.0" fill="#1f2933">0.36</text>
+<text class="label" text-anchor="end" x="231" y="228.3">memoryless depth last</text>
+<rect x="245.0" y="196.7" width="171.2" height="53.3" fill="rgb(177,216,186)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="330.6" y="228.3" fill="#1f2933">0.33</text>
+<rect x="416.2" y="196.7" width="171.2" height="53.3" fill="rgb(165,212,178)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="501.9" y="228.3" fill="#1f2933">0.38</text>
+<rect x="587.5" y="196.7" width="171.2" height="53.3" fill="rgb(167,212,179)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="673.1" y="228.3" fill="#1f2933">0.38</text>
+<rect x="758.8" y="196.7" width="171.2" height="53.3" fill="rgb(170,213,181)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="844.4" y="228.3" fill="#1f2933">0.36</text>
+<text class="label" text-anchor="end" x="231" y="281.7">history counts</text>
+<rect x="245.0" y="250.0" width="171.2" height="53.3" fill="rgb(177,216,186)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="330.6" y="281.7" fill="#1f2933">0.33</text>
+<rect x="416.2" y="250.0" width="171.2" height="53.3" fill="rgb(165,212,178)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="501.9" y="281.7" fill="#1f2933">0.38</text>
+<rect x="587.5" y="250.0" width="171.2" height="53.3" fill="rgb(167,212,179)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="673.1" y="281.7" fill="#1f2933">0.38</text>
+<rect x="758.8" y="250.0" width="171.2" height="53.3" fill="rgb(170,213,181)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="844.4" y="281.7" fill="#1f2933">0.36</text>
+<text class="label" text-anchor="end" x="231" y="335.0">history depth last</text>
+<rect x="245.0" y="303.3" width="171.2" height="53.3" fill="rgb(177,216,186)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="330.6" y="335.0" fill="#1f2933">0.33</text>
+<rect x="416.2" y="303.3" width="171.2" height="53.3" fill="rgb(165,212,178)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="501.9" y="335.0" fill="#1f2933">0.38</text>
+<rect x="587.5" y="303.3" width="171.2" height="53.3" fill="rgb(167,212,179)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="673.1" y="335.0" fill="#1f2933">0.38</text>
+<rect x="758.8" y="303.3" width="171.2" height="53.3" fill="rgb(170,213,181)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="844.4" y="335.0" fill="#1f2933">0.36</text>
+<text class="label" text-anchor="end" x="231" y="388.3">hybrid counts depth last history</text>
+<rect x="245.0" y="356.7" width="171.2" height="53.3" fill="rgb(177,216,186)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="330.6" y="388.3" fill="#1f2933">0.33</text>
+<rect x="416.2" y="356.7" width="171.2" height="53.3" fill="rgb(165,212,178)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="501.9" y="388.3" fill="#1f2933">0.38</text>
+<rect x="587.5" y="356.7" width="171.2" height="53.3" fill="rgb(167,212,179)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="673.1" y="388.3" fill="#1f2933">0.38</text>
+<rect x="758.8" y="356.7" width="171.2" height="53.3" fill="rgb(170,213,181)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="844.4" y="388.3" fill="#1f2933">0.36</text>
+<text class="tick" text-anchor="end" x="352.6" y="478" transform="rotate(-30 352.6 478)">trace commute 000</text>
+<text class="tick" text-anchor="end" x="523.9" y="478" transform="rotate(-30 523.9 478)">trace commute 033</text>
+<text class="tick" text-anchor="end" x="695.1" y="478" transform="rotate(-30 695.1 478)">trace commute 067</text>
+<text class="tick" text-anchor="end" x="866.4" y="478" transform="rotate(-30 866.4 478)">trace commute 100</text>
+</svg>

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="675" viewBox="0 0 980 675">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1f2933}.title{font-size:30px;font-weight:700}.subtitle{font-size:17px;fill:#52606d}.label{font-size:16px}.small{font-size:13px;fill:#52606d}.value{font-size:14px;font-weight:700}.axis{stroke:#cbd5e1;stroke-width:1}</style>
+<text class="title" x="48" y="40">Long Delay: Lin Blocks Versus Reservoirs</text>
+<text class="subtitle" x="48" y="66">Best action accuracy by architecture family on the 72-step delayed T-maze.</text>
+<text class="small" text-anchor="end" x="378.0" y="107" transform="rotate(-28 378.0 107)">Sparse / No masking</text>
+<text class="small" text-anchor="end" x="538.0" y="107" transform="rotate(-28 538.0 107)">Sparse / Cue blank</text>
+<text class="small" text-anchor="end" x="698.0" y="107" transform="rotate(-28 698.0 107)">Egocentric / No masking</text>
+<text class="small" text-anchor="end" x="858.0" y="107" transform="rotate(-28 858.0 107)">Egocentric / Cue blank</text>
+<text class="label" text-anchor="end" x="236" y="167.0">Memoryless</text>
+<rect x="250.0" y="135.0" width="160.0" height="54.0" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="330.0" y="167.0" fill="#1f2933">0.506</text>
+<rect x="410.0" y="135.0" width="160.0" height="54.0" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="490.0" y="167.0" fill="#1f2933">0.506</text>
+<rect x="570.0" y="135.0" width="160.0" height="54.0" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="650.0" y="167.0" fill="#ffffff">0.753</text>
+<rect x="730.0" y="135.0" width="160.0" height="54.0" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="810.0" y="167.0" fill="#1f2933">0.506</text>
+<text class="label" text-anchor="end" x="236" y="221.0">RNN</text>
+<rect x="250.0" y="189.0" width="160.0" height="54.0" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="330.0" y="221.0" fill="#1f2933">0.506</text>
+<rect x="410.0" y="189.0" width="160.0" height="54.0" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="490.0" y="221.0" fill="#1f2933">0.506</text>
+<rect x="570.0" y="189.0" width="160.0" height="54.0" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="650.0" y="221.0" fill="#ffffff">0.753</text>
+<rect x="730.0" y="189.0" width="160.0" height="54.0" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="810.0" y="221.0" fill="#1f2933">0.506</text>
+<text class="label" text-anchor="end" x="236" y="275.0">Diag reservoir</text>
+<rect x="250.0" y="243.0" width="160.0" height="54.0" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="330.0" y="275.0" fill="#1f2933">0.503</text>
+<rect x="410.0" y="243.0" width="160.0" height="54.0" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="490.0" y="275.0" fill="#1f2933">0.503</text>
+<rect x="570.0" y="243.0" width="160.0" height="54.0" fill="rgb(73,132,94)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="650.0" y="275.0" fill="#ffffff">0.780</text>
+<rect x="730.0" y="243.0" width="160.0" height="54.0" fill="rgb(138,171,147)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="810.0" y="275.0" fill="#1f2933">0.502</text>
+<text class="label" text-anchor="end" x="236" y="329.0">Nilpotent res.</text>
+<rect x="250.0" y="297.0" width="160.0" height="54.0" fill="rgb(143,175,151)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="330.0" y="329.0" fill="#1f2933">0.478</text>
+<rect x="410.0" y="297.0" width="160.0" height="54.0" fill="rgb(144,175,152)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="490.0" y="329.0" fill="#1f2933">0.473</text>
+<rect x="570.0" y="297.0" width="160.0" height="54.0" fill="rgb(80,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="650.0" y="329.0" fill="#ffffff">0.752</text>
+<rect x="730.0" y="297.0" width="160.0" height="54.0" fill="rgb(145,176,153)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="810.0" y="329.0" fill="#1f2933">0.468</text>
+<text class="label" text-anchor="end" x="236" y="383.0">Block hybrid res.</text>
+<rect x="250.0" y="351.0" width="160.0" height="54.0" fill="rgb(142,174,151)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="330.0" y="383.0" fill="#1f2933">0.481</text>
+<rect x="410.0" y="351.0" width="160.0" height="54.0" fill="rgb(143,175,151)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="490.0" y="383.0" fill="#1f2933">0.477</text>
+<rect x="570.0" y="351.0" width="160.0" height="54.0" fill="rgb(67,128,89)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="650.0" y="383.0" fill="#ffffff">0.808</text>
+<rect x="730.0" y="351.0" width="160.0" height="54.0" fill="rgb(145,175,152)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="810.0" y="383.0" fill="#1f2933">0.472</text>
+<text class="label" text-anchor="end" x="236" y="437.0">Shared Lin</text>
+<rect x="250.0" y="405.0" width="160.0" height="54.0" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="330.0" y="437.0" fill="#1f2933">0.506</text>
+<rect x="410.0" y="405.0" width="160.0" height="54.0" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="490.0" y="437.0" fill="#1f2933">0.506</text>
+<rect x="570.0" y="405.0" width="160.0" height="54.0" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="650.0" y="437.0" fill="#ffffff">0.753</text>
+<rect x="730.0" y="405.0" width="160.0" height="54.0" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="810.0" y="437.0" fill="#1f2933">0.506</text>
+<text class="label" text-anchor="end" x="236" y="491.0">Independent Lin</text>
+<rect x="250.0" y="459.0" width="160.0" height="54.0" fill="rgb(84,139,103)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="330.0" y="491.0" fill="#ffffff">0.733</text>
+<rect x="410.0" y="459.0" width="160.0" height="54.0" fill="rgb(84,139,103)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="490.0" y="491.0" fill="#ffffff">0.733</text>
+<rect x="570.0" y="459.0" width="160.0" height="54.0" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="650.0" y="491.0" fill="#ffffff">0.753</text>
+<rect x="730.0" y="459.0" width="160.0" height="54.0" fill="rgb(84,139,103)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="810.0" y="491.0" fill="#ffffff">0.733</text>
+<text class="label" text-anchor="end" x="236" y="545.0">Explicit history</text>
+<rect x="250.0" y="513.0" width="160.0" height="54.0" fill="rgb(22,101,52)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="330.0" y="545.0" fill="#ffffff">1.000</text>
+<rect x="410.0" y="513.0" width="160.0" height="54.0" fill="rgb(22,101,52)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="490.0" y="545.0" fill="#ffffff">1.000</text>
+<rect x="570.0" y="513.0" width="160.0" height="54.0" fill="rgb(22,101,52)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="650.0" y="545.0" fill="#ffffff">1.000</text>
+<rect x="730.0" y="513.0" width="160.0" height="54.0" fill="rgb(22,101,52)" stroke="#ffffff" stroke-width="2"/>
+<text class="value" text-anchor="middle" x="810.0" y="545.0" fill="#ffffff">1.000</text>
+<text class="small" x="48" y="618">Independent Lin blocks beat reservoirs under cue gaps; explicit history remains the ceiling control.</text>
+</svg>

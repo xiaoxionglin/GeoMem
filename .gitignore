@@ -1,0 +1,43 @@
+# Python and local tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Obsidian machine-local state and installed plugin binaries
+**/.obsidian/workspace*.json
+**/.obsidian/plugins/*/main.js
+**/.obsidian/plugins/*/styles.css
+**/.obsidian/plugins/*/manifest.json
+**/.obsidian/plugins/*/obsidian_askpass.sh
+
+# Large or generated research artifacts
+data/
+datasets/
+outputs/
+runs/
+logs/
+videos/
+checkpoints/
+wandb/
+mlruns/
+tensorboard/
+*.ckpt
+*.pt
+*.pth
+*.pkl
+*.h5
+*.mp4
+*.avi
+*.mov

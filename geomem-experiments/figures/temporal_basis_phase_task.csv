@@ -1,0 +1,10 @@
+task,basis,family,dim,period,mse,cosine_alignment
+phase_modulo_reconstruction,nilpotent_L32,nilpotent,32,16,0.3371276595535454,0.5707431311684853
+phase_modulo_reconstruction,nilpotent_L64,nilpotent,64,16,0.17767062517321364,0.8029108885590268
+phase_modulo_reconstruction,nilpotent_L96,nilpotent,96,16,0.007701514966592722,0.9922692839961479
+phase_modulo_reconstruction,osc_r099_m16,oscillatory,32,16,0.45178222717684585,0.31588946153948316
+phase_modulo_reconstruction,osc_r095_m16,oscillatory,32,16,0.3879220309879547,0.4734589766257319
+phase_modulo_reconstruction,osc_r090_m16,oscillatory,32,16,0.39994130050230503,0.44742465265234554
+phase_modulo_reconstruction,osc_r099_m48,oscillatory,96,16,0.022158603130267494,0.9776340220051933
+phase_modulo_reconstruction,threshold_osc_r099_m48,thresholded_oscillatory,96,16,0.22516169052040824,0.7415059429301412
+phase_modulo_reconstruction,matched_phase_osc_T16,matched_phase_oscillatory,2,16,9.722219092203324e-05,0.9999029417245056

@@ -1,0 +1,23 @@
+{
+  "commitMessage": "vault sync: {{date}}",
+  "autoCommitMessage": "vault sync: {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoSaveInterval": 10,
+  "autoPushInterval": 0,
+  "autoPullInterval": 5,
+  "autoPullOnBoot": true,
+  "autoCommitOnlyStaged": false,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "disablePopups": true,
+  "showErrorNotices": true,
+  "disablePopupsForNoChanges": true,
+  "showStatusBar": true,
+  "updateSubmodules": false,
+  "syncMethod": "merge",
+  "mergeStrategy": "none",
+  "basePath": "",
+  "differentIntervalCommitAndPush": false,
+  "changedFilesInStatusBar": true,
+  "showBranchStatusBar": true
+}

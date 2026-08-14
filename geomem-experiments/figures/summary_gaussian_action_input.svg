@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="500" viewBox="0 0 940 500">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1f2933}.title{font-size:30px;font-weight:700}.subtitle{font-size:17px;fill:#52606d}.label{font-size:16px}.small{font-size:13px;fill:#52606d}.value{font-size:14px;font-weight:700}.axis{stroke:#cbd5e1;stroke-width:1}</style>
+<text class="title" x="48" y="40">Previous-Action Input Under Gaussian Noise</text>
+<text class="subtitle" x="48" y="66">Mean action accuracy across Gaussian tasks and model families.</text>
+<line class="axis" x1="90" y1="385" x2="860" y2="385"/>
+<line x1="85" y1="245.0" x2="860" y2="245.0" stroke="#e2e8f0" stroke-width="1"/>
+<text class="small" text-anchor="end" x="78" y="249.0">0.5</text>
+<line x1="85" y1="217.0" x2="860" y2="217.0" stroke="#e2e8f0" stroke-width="1"/>
+<text class="small" text-anchor="end" x="78" y="221.0">0.6</text>
+<line x1="85" y1="189.0" x2="860" y2="189.0" stroke="#e2e8f0" stroke-width="1"/>
+<text class="small" text-anchor="end" x="78" y="193.0">0.7</text>
+<rect x="146.5" y="189.5" width="40.0" height="195.5" fill="#94a3b8" rx="2"/>
+<text class="value" text-anchor="middle" x="166.5" y="183.5">0.698</text>
+<rect x="197.8" y="186.7" width="40.0" height="198.3" fill="#2563eb" rx="2"/>
+<text class="value" text-anchor="middle" x="217.8" y="180.7">0.708</text>
+<rect x="249.1" y="188.2" width="40.0" height="196.8" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="269.2" y="182.2">0.703</text>
+<text class="label" text-anchor="middle" x="218.3" y="419.0">No masking</text>
+<rect x="403.1" y="210.2" width="40.0" height="174.8" fill="#94a3b8" rx="2"/>
+<text class="value" text-anchor="middle" x="423.2" y="204.2">0.624</text>
+<rect x="454.5" y="203.1" width="40.0" height="181.9" fill="#2563eb" rx="2"/>
+<text class="value" text-anchor="middle" x="474.5" y="197.1">0.650</text>
+<rect x="505.8" y="203.6" width="40.0" height="181.4" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="525.8" y="197.6">0.648</text>
+<text class="label" text-anchor="middle" x="475.0" y="419.0">Dropout</text>
+<rect x="659.8" y="216.6" width="40.0" height="168.4" fill="#94a3b8" rx="2"/>
+<text class="value" text-anchor="middle" x="679.8" y="210.6">0.602</text>
+<rect x="711.1" y="197.6" width="40.0" height="187.4" fill="#2563eb" rx="2"/>
+<text class="value" text-anchor="middle" x="731.2" y="191.6">0.669</text>
+<rect x="762.5" y="197.7" width="40.0" height="187.3" fill="#15803d" rx="2"/>
+<text class="value" text-anchor="middle" x="782.5" y="191.7">0.669</text>
+<text class="label" text-anchor="middle" x="731.7" y="419.0">Cue blank</text>
+<rect x="605" y="34" width="15" height="15" fill="#94a3b8" rx="2"/>
+<text class="small" x="627" y="47">No action</text>
+<rect x="710" y="34" width="15" height="15" fill="#2563eb" rx="2"/>
+<text class="small" x="732" y="47">One-hot</text>
+<rect x="815" y="34" width="15" height="15" fill="#15803d" rx="2"/>
+<text class="small" x="837" y="47">Embedding</text>
+<text class="small" x="48" y="468">Action input is outside the environment; the environment still emits only current observations.</text>
+</svg>

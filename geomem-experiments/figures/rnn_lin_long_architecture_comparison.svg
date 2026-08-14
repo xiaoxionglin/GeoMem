@@ -1,0 +1,325 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1650" viewBox="0 0 1080 1650">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1f2933}.title{font-size:32px;font-weight:700}.label{font-size:18px}.cell{font-size:17px;font-weight:700}</style>
+<text class="title" x="54" y="38">Long delayed navigation architecture comparison</text>
+<text class="label" x="54" y="64">72-step delayed T-maze; cell = mean supervised action accuracy</text>
+<text class="label" text-anchor="end" x="376" y="129.0">memoryless linear</text>
+<rect x="390.0" y="108.0" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="129.0" fill="#1f2933">0.51</text>
+<rect x="549.0" y="108.0" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="129.0" fill="#1f2933">0.51</text>
+<rect x="708.0" y="108.0" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="129.0" fill="#ffffff">0.75</text>
+<rect x="867.0" y="108.0" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="129.0" fill="#1f2933">0.51</text>
+<text class="label" text-anchor="end" x="376" y="163.1">memoryless mlp</text>
+<rect x="390.0" y="142.1" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="163.1" fill="#1f2933">0.51</text>
+<rect x="549.0" y="142.1" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="163.1" fill="#1f2933">0.51</text>
+<rect x="708.0" y="142.1" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="163.1" fill="#ffffff">0.75</text>
+<rect x="867.0" y="142.1" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="163.1" fill="#1f2933">0.51</text>
+<text class="label" text-anchor="end" x="376" y="197.1">history linear h4</text>
+<rect x="390.0" y="176.1" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="197.1" fill="#1f2933">0.51</text>
+<rect x="549.0" y="176.1" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="197.1" fill="#1f2933">0.51</text>
+<rect x="708.0" y="176.1" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="197.1" fill="#ffffff">0.75</text>
+<rect x="867.0" y="176.1" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="197.1" fill="#1f2933">0.51</text>
+<text class="label" text-anchor="end" x="376" y="231.2">history linear h16</text>
+<rect x="390.0" y="210.2" width="159.0" height="34.1" fill="rgb(145,176,153)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="231.2" fill="#1f2933">0.47</text>
+<rect x="549.0" y="210.2" width="159.0" height="34.1" fill="rgb(149,178,156)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="231.2" fill="#1f2933">0.45</text>
+<rect x="708.0" y="210.2" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="231.2" fill="#ffffff">0.75</text>
+<rect x="867.0" y="210.2" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="231.2" fill="#1f2933">0.51</text>
+<text class="label" text-anchor="end" x="376" y="265.3">history linear h64</text>
+<rect x="390.0" y="244.2" width="159.0" height="34.1" fill="rgb(89,142,107)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="265.3" fill="#ffffff">0.71</text>
+<rect x="549.0" y="244.2" width="159.0" height="34.1" fill="rgb(88,141,106)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="265.3" fill="#ffffff">0.71</text>
+<rect x="708.0" y="244.2" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="265.3" fill="#ffffff">0.75</text>
+<rect x="867.0" y="244.2" width="159.0" height="34.1" fill="rgb(105,151,120)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="265.3" fill="#ffffff">0.64</text>
+<text class="label" text-anchor="end" x="376" y="299.3">history linear h80</text>
+<rect x="390.0" y="278.3" width="159.0" height="34.1" fill="rgb(22,101,52)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="299.3" fill="#ffffff">1.00</text>
+<rect x="549.0" y="278.3" width="159.0" height="34.1" fill="rgb(22,101,52)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="299.3" fill="#ffffff">1.00</text>
+<rect x="708.0" y="278.3" width="159.0" height="34.1" fill="rgb(22,101,52)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="299.3" fill="#ffffff">1.00</text>
+<rect x="867.0" y="278.3" width="159.0" height="34.1" fill="rgb(22,101,52)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="299.3" fill="#ffffff">1.00</text>
+<text class="label" text-anchor="end" x="376" y="333.4">numpy rnn</text>
+<rect x="390.0" y="312.3" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="333.4" fill="#1f2933">0.51</text>
+<rect x="549.0" y="312.3" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="333.4" fill="#1f2933">0.51</text>
+<rect x="708.0" y="312.3" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="333.4" fill="#ffffff">0.75</text>
+<rect x="867.0" y="312.3" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="333.4" fill="#1f2933">0.51</text>
+<text class="label" text-anchor="end" x="376" y="367.4">reservoir random</text>
+<rect x="390.0" y="346.4" width="159.0" height="34.1" fill="rgb(141,173,149)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="367.4" fill="#1f2933">0.49</text>
+<rect x="549.0" y="346.4" width="159.0" height="34.1" fill="rgb(147,177,154)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="367.4" fill="#1f2933">0.46</text>
+<rect x="708.0" y="346.4" width="159.0" height="34.1" fill="rgb(73,132,94)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="367.4" fill="#ffffff">0.78</text>
+<rect x="867.0" y="346.4" width="159.0" height="34.1" fill="rgb(140,173,149)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="367.4" fill="#1f2933">0.49</text>
+<text class="label" text-anchor="end" x="376" y="401.5">reservoir symmetric</text>
+<rect x="390.0" y="380.5" width="159.0" height="34.1" fill="rgb(138,171,147)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="401.5" fill="#1f2933">0.50</text>
+<rect x="549.0" y="380.5" width="159.0" height="34.1" fill="rgb(138,171,147)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="401.5" fill="#1f2933">0.50</text>
+<rect x="708.0" y="380.5" width="159.0" height="34.1" fill="rgb(67,128,89)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="401.5" fill="#ffffff">0.81</text>
+<rect x="867.0" y="380.5" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="401.5" fill="#1f2933">0.50</text>
+<text class="label" text-anchor="end" x="376" y="435.5">reservoir oscillatory</text>
+<rect x="390.0" y="414.5" width="159.0" height="34.1" fill="rgb(147,177,154)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="435.5" fill="#1f2933">0.46</text>
+<rect x="549.0" y="414.5" width="159.0" height="34.1" fill="rgb(148,178,155)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="435.5" fill="#1f2933">0.46</text>
+<rect x="708.0" y="414.5" width="159.0" height="34.1" fill="rgb(73,132,94)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="435.5" fill="#ffffff">0.78</text>
+<rect x="867.0" y="414.5" width="159.0" height="34.1" fill="rgb(149,178,156)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="435.5" fill="#1f2933">0.45</text>
+<text class="label" text-anchor="end" x="376" y="469.6">reservoir orthogonal</text>
+<rect x="390.0" y="448.6" width="159.0" height="34.1" fill="rgb(149,178,156)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="469.6" fill="#1f2933">0.45</text>
+<rect x="549.0" y="448.6" width="159.0" height="34.1" fill="rgb(147,177,154)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="469.6" fill="#1f2933">0.46</text>
+<rect x="708.0" y="448.6" width="159.0" height="34.1" fill="rgb(67,128,89)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="469.6" fill="#ffffff">0.81</text>
+<rect x="867.0" y="448.6" width="159.0" height="34.1" fill="rgb(148,178,156)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="469.6" fill="#1f2933">0.45</text>
+<text class="label" text-anchor="end" x="376" y="503.7">reservoir nilpotent</text>
+<rect x="390.0" y="482.6" width="159.0" height="34.1" fill="rgb(143,175,151)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="503.7" fill="#1f2933">0.48</text>
+<rect x="549.0" y="482.6" width="159.0" height="34.1" fill="rgb(144,175,152)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="503.7" fill="#1f2933">0.47</text>
+<rect x="708.0" y="482.6" width="159.0" height="34.1" fill="rgb(80,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="503.7" fill="#ffffff">0.75</text>
+<rect x="867.0" y="482.6" width="159.0" height="34.1" fill="rgb(145,176,153)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="503.7" fill="#1f2933">0.47</text>
+<text class="label" text-anchor="end" x="376" y="537.7">reservoir diagonal</text>
+<rect x="390.0" y="516.7" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="537.7" fill="#1f2933">0.50</text>
+<rect x="549.0" y="516.7" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="537.7" fill="#1f2933">0.50</text>
+<rect x="708.0" y="516.7" width="159.0" height="34.1" fill="rgb(73,132,94)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="537.7" fill="#ffffff">0.78</text>
+<rect x="867.0" y="516.7" width="159.0" height="34.1" fill="rgb(138,171,147)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="537.7" fill="#1f2933">0.50</text>
+<text class="label" text-anchor="end" x="376" y="571.8">reservoir low rank</text>
+<rect x="390.0" y="550.7" width="159.0" height="34.1" fill="rgb(138,172,147)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="571.8" fill="#1f2933">0.50</text>
+<rect x="549.0" y="550.7" width="159.0" height="34.1" fill="rgb(136,170,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="571.8" fill="#1f2933">0.51</text>
+<rect x="708.0" y="550.7" width="159.0" height="34.1" fill="rgb(73,132,94)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="571.8" fill="#ffffff">0.78</text>
+<rect x="867.0" y="550.7" width="159.0" height="34.1" fill="rgb(140,173,148)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="571.8" fill="#1f2933">0.49</text>
+<text class="label" text-anchor="end" x="376" y="605.8">reservoir sparse</text>
+<rect x="390.0" y="584.8" width="159.0" height="34.1" fill="rgb(141,174,150)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="605.8" fill="#1f2933">0.48</text>
+<rect x="549.0" y="584.8" width="159.0" height="34.1" fill="rgb(143,174,151)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="605.8" fill="#1f2933">0.48</text>
+<rect x="708.0" y="584.8" width="159.0" height="34.1" fill="rgb(86,140,104)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="605.8" fill="#ffffff">0.73</text>
+<rect x="867.0" y="584.8" width="159.0" height="34.1" fill="rgb(141,173,149)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="605.8" fill="#1f2933">0.49</text>
+<text class="label" text-anchor="end" x="376" y="639.9">reservoir block hybrid</text>
+<rect x="390.0" y="618.9" width="159.0" height="34.1" fill="rgb(142,174,151)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="639.9" fill="#1f2933">0.48</text>
+<rect x="549.0" y="618.9" width="159.0" height="34.1" fill="rgb(143,175,151)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="639.9" fill="#1f2933">0.48</text>
+<rect x="708.0" y="618.9" width="159.0" height="34.1" fill="rgb(67,128,89)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="639.9" fill="#ffffff">0.81</text>
+<rect x="867.0" y="618.9" width="159.0" height="34.1" fill="rgb(145,175,152)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="639.9" fill="#1f2933">0.47</text>
+<text class="label" text-anchor="end" x="376" y="673.9">shared lin front bands r1 l2</text>
+<rect x="390.0" y="652.9" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="673.9" fill="#1f2933">0.51</text>
+<rect x="549.0" y="652.9" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="673.9" fill="#1f2933">0.51</text>
+<rect x="708.0" y="652.9" width="159.0" height="34.1" fill="rgb(80,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="673.9" fill="#ffffff">0.75</text>
+<rect x="867.0" y="652.9" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="673.9" fill="#1f2933">0.51</text>
+<text class="label" text-anchor="end" x="376" y="708.0">shared lin front bands r1 l4</text>
+<rect x="390.0" y="687.0" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="708.0" fill="#1f2933">0.51</text>
+<rect x="549.0" y="687.0" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="708.0" fill="#1f2933">0.51</text>
+<rect x="708.0" y="687.0" width="159.0" height="34.1" fill="rgb(80,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="708.0" fill="#ffffff">0.75</text>
+<rect x="867.0" y="687.0" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="708.0" fill="#1f2933">0.51</text>
+<text class="label" text-anchor="end" x="376" y="742.1">shared lin front bands r1 l8</text>
+<rect x="390.0" y="721.0" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="742.1" fill="#1f2933">0.50</text>
+<rect x="549.0" y="721.0" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="742.1" fill="#1f2933">0.50</text>
+<rect x="708.0" y="721.0" width="159.0" height="34.1" fill="rgb(80,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="742.1" fill="#ffffff">0.75</text>
+<rect x="867.0" y="721.0" width="159.0" height="34.1" fill="rgb(138,172,147)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="742.1" fill="#1f2933">0.50</text>
+<text class="label" text-anchor="end" x="376" y="776.1">shared lin front bands r3 l2</text>
+<rect x="390.0" y="755.1" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="776.1" fill="#1f2933">0.50</text>
+<rect x="549.0" y="755.1" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="776.1" fill="#1f2933">0.50</text>
+<rect x="708.0" y="755.1" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="776.1" fill="#ffffff">0.75</text>
+<rect x="867.0" y="755.1" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="776.1" fill="#1f2933">0.50</text>
+<text class="label" text-anchor="end" x="376" y="810.2">shared lin front bands r3 l4</text>
+<rect x="390.0" y="789.1" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="810.2" fill="#1f2933">0.51</text>
+<rect x="549.0" y="789.1" width="159.0" height="34.1" fill="rgb(138,172,147)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="810.2" fill="#1f2933">0.50</text>
+<rect x="708.0" y="789.1" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="810.2" fill="#ffffff">0.75</text>
+<rect x="867.0" y="789.1" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="810.2" fill="#1f2933">0.50</text>
+<text class="label" text-anchor="end" x="376" y="844.2">shared lin front bands r3 l8</text>
+<rect x="390.0" y="823.2" width="159.0" height="34.1" fill="rgb(138,172,147)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="844.2" fill="#1f2933">0.50</text>
+<rect x="549.0" y="823.2" width="159.0" height="34.1" fill="rgb(139,172,148)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="844.2" fill="#1f2933">0.50</text>
+<rect x="708.0" y="823.2" width="159.0" height="34.1" fill="rgb(80,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="844.2" fill="#ffffff">0.75</text>
+<rect x="867.0" y="823.2" width="159.0" height="34.1" fill="rgb(140,173,149)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="844.2" fill="#1f2933">0.49</text>
+<text class="label" text-anchor="end" x="376" y="878.3">shared lin front bands r5 l2</text>
+<rect x="390.0" y="857.3" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="878.3" fill="#1f2933">0.50</text>
+<rect x="549.0" y="857.3" width="159.0" height="34.1" fill="rgb(140,173,148)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="878.3" fill="#1f2933">0.49</text>
+<rect x="708.0" y="857.3" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="878.3" fill="#ffffff">0.75</text>
+<rect x="867.0" y="857.3" width="159.0" height="34.1" fill="rgb(138,171,147)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="878.3" fill="#1f2933">0.50</text>
+<text class="label" text-anchor="end" x="376" y="912.3">shared lin front bands r5 l4</text>
+<rect x="390.0" y="891.3" width="159.0" height="34.1" fill="rgb(138,171,147)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="912.3" fill="#1f2933">0.50</text>
+<rect x="549.0" y="891.3" width="159.0" height="34.1" fill="rgb(138,171,147)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="912.3" fill="#1f2933">0.50</text>
+<rect x="708.0" y="891.3" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="912.3" fill="#ffffff">0.75</text>
+<rect x="867.0" y="891.3" width="159.0" height="34.1" fill="rgb(139,172,148)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="912.3" fill="#1f2933">0.49</text>
+<text class="label" text-anchor="end" x="376" y="946.4">shared lin front bands r5 l8</text>
+<rect x="390.0" y="925.4" width="159.0" height="34.1" fill="rgb(141,174,150)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="946.4" fill="#1f2933">0.48</text>
+<rect x="549.0" y="925.4" width="159.0" height="34.1" fill="rgb(139,172,148)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="946.4" fill="#1f2933">0.50</text>
+<rect x="708.0" y="925.4" width="159.0" height="34.1" fill="rgb(80,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="946.4" fill="#ffffff">0.75</text>
+<rect x="867.0" y="925.4" width="159.0" height="34.1" fill="rgb(141,173,149)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="946.4" fill="#1f2933">0.49</text>
+<text class="label" text-anchor="end" x="376" y="980.5">shared lin all units r3 l4</text>
+<rect x="390.0" y="959.4" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="980.5" fill="#1f2933">0.50</text>
+<rect x="549.0" y="959.4" width="159.0" height="34.1" fill="rgb(138,171,147)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="980.5" fill="#1f2933">0.50</text>
+<rect x="708.0" y="959.4" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="980.5" fill="#ffffff">0.75</text>
+<rect x="867.0" y="959.4" width="159.0" height="34.1" fill="rgb(138,171,147)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="980.5" fill="#1f2933">0.50</text>
+<text class="label" text-anchor="end" x="376" y="1014.5">independent lin r1 l4</text>
+<rect x="390.0" y="993.5" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="1014.5" fill="#1f2933">0.51</text>
+<rect x="549.0" y="993.5" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="1014.5" fill="#1f2933">0.51</text>
+<rect x="708.0" y="993.5" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="1014.5" fill="#ffffff">0.75</text>
+<rect x="867.0" y="993.5" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="1014.5" fill="#1f2933">0.51</text>
+<text class="label" text-anchor="end" x="376" y="1048.6">independent lin r1 l16</text>
+<rect x="390.0" y="1027.5" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="1048.6" fill="#1f2933">0.51</text>
+<rect x="549.0" y="1027.5" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="1048.6" fill="#1f2933">0.51</text>
+<rect x="708.0" y="1027.5" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="1048.6" fill="#ffffff">0.75</text>
+<rect x="867.0" y="1027.5" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="1048.6" fill="#1f2933">0.51</text>
+<text class="label" text-anchor="end" x="376" y="1082.6">independent lin r1 l64</text>
+<rect x="390.0" y="1061.6" width="159.0" height="34.1" fill="rgb(88,141,106)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="1082.6" fill="#ffffff">0.71</text>
+<rect x="549.0" y="1061.6" width="159.0" height="34.1" fill="rgb(88,141,106)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="1082.6" fill="#ffffff">0.71</text>
+<rect x="708.0" y="1061.6" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="1082.6" fill="#ffffff">0.75</text>
+<rect x="867.0" y="1061.6" width="159.0" height="34.1" fill="rgb(88,141,106)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="1082.6" fill="#ffffff">0.71</text>
+<text class="label" text-anchor="end" x="376" y="1116.7">independent lin r3 l4</text>
+<rect x="390.0" y="1095.7" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="1116.7" fill="#1f2933">0.51</text>
+<rect x="549.0" y="1095.7" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="1116.7" fill="#1f2933">0.51</text>
+<rect x="708.0" y="1095.7" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="1116.7" fill="#ffffff">0.75</text>
+<rect x="867.0" y="1095.7" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="1116.7" fill="#1f2933">0.51</text>
+<text class="label" text-anchor="end" x="376" y="1150.7">independent lin r3 l16</text>
+<rect x="390.0" y="1129.7" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="1150.7" fill="#1f2933">0.51</text>
+<rect x="549.0" y="1129.7" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="1150.7" fill="#1f2933">0.51</text>
+<rect x="708.0" y="1129.7" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="1150.7" fill="#ffffff">0.75</text>
+<rect x="867.0" y="1129.7" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="1150.7" fill="#1f2933">0.51</text>
+<text class="label" text-anchor="end" x="376" y="1184.8">independent lin r3 l64</text>
+<rect x="390.0" y="1163.8" width="159.0" height="34.1" fill="rgb(87,140,105)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="1184.8" fill="#ffffff">0.72</text>
+<rect x="549.0" y="1163.8" width="159.0" height="34.1" fill="rgb(87,140,105)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="1184.8" fill="#ffffff">0.72</text>
+<rect x="708.0" y="1163.8" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="1184.8" fill="#ffffff">0.75</text>
+<rect x="867.0" y="1163.8" width="159.0" height="34.1" fill="rgb(86,140,104)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="1184.8" fill="#ffffff">0.73</text>
+<text class="label" text-anchor="end" x="376" y="1218.9">independent lin r5 l4</text>
+<rect x="390.0" y="1197.8" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="1218.9" fill="#1f2933">0.51</text>
+<rect x="549.0" y="1197.8" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="1218.9" fill="#1f2933">0.51</text>
+<rect x="708.0" y="1197.8" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="1218.9" fill="#ffffff">0.75</text>
+<rect x="867.0" y="1197.8" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="1218.9" fill="#1f2933">0.51</text>
+<text class="label" text-anchor="end" x="376" y="1252.9">independent lin r5 l16</text>
+<rect x="390.0" y="1231.9" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="1252.9" fill="#1f2933">0.51</text>
+<rect x="549.0" y="1231.9" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="1252.9" fill="#1f2933">0.51</text>
+<rect x="708.0" y="1231.9" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="1252.9" fill="#ffffff">0.75</text>
+<rect x="867.0" y="1231.9" width="159.0" height="34.1" fill="rgb(137,171,146)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="1252.9" fill="#1f2933">0.51</text>
+<text class="label" text-anchor="end" x="376" y="1287.0">independent lin r5 l64</text>
+<rect x="390.0" y="1265.9" width="159.0" height="34.1" fill="rgb(84,139,103)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="469.5" y="1287.0" fill="#ffffff">0.73</text>
+<rect x="549.0" y="1265.9" width="159.0" height="34.1" fill="rgb(84,139,103)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="628.5" y="1287.0" fill="#ffffff">0.73</text>
+<rect x="708.0" y="1265.9" width="159.0" height="34.1" fill="rgb(79,136,99)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="787.5" y="1287.0" fill="#ffffff">0.75</text>
+<rect x="867.0" y="1265.9" width="159.0" height="34.1" fill="rgb(84,139,103)" stroke="#ffffff" stroke-width="2"/>
+<text class="cell" text-anchor="middle" x="946.5" y="1287.0" fill="#ffffff">0.73</text>
+<text class="label" text-anchor="end" x="511.5" y="1382" transform="rotate(-34 511.5 1382)">sparse aliased / full</text>
+<text class="label" text-anchor="end" x="670.5" y="1382" transform="rotate(-34 670.5 1382)">sparse aliased / cue then blank</text>
+<text class="label" text-anchor="end" x="829.5" y="1382" transform="rotate(-34 829.5 1382)">egocentric landmark / full</text>
+<text class="label" text-anchor="end" x="988.5" y="1382" transform="rotate(-34 988.5 1382)">egocentric landmark / cue then blank</text>
+</svg>
