@@ -21,4 +21,3 @@ Yiu and Leibold 2023 provides a theoretical account of theta correlations that s
 ## Place/Grid Geometry
 
 Kammerer and Leibold 2014 argues that sparse place coding imposes strong representational constraints. Monsalve-Mercado and Leibold 2017 connects hippocampal spike-timing correlations to hexagonal grid fields. Monsalve-Mercado and Leibold 2020 shows that boundaries can deform grid cell patterns, supporting the claim that neural spatial codes are shaped by environmental geometry.
-

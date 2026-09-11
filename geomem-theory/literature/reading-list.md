@@ -1,4 +1,4 @@
-# Annotated Bibliography
+# GeoMem Reading List
 
 ## Primary Lab Anchors
 
@@ -32,6 +32,26 @@
 - Monsalve-Mercado, M. M., & Leibold, C. (2020). Effect of boundaries on grid cell patterns. Physical Review Research. https://doi.org/10.1103/PhysRevResearch.2.043137  
   Role: environmental geometry deforms grid codes.
 
+## Task Geometry, Complexity, and Environment Measures
+
+- Gao, P., & Ganguli, S. (2015). On simplicity and complexity in the brave new world of large-scale neuroscience. Current Opinion in Neurobiology. https://doi.org/10.1016/j.conb.2015.04.003  
+  Role: **first priority for the environment/measure work.** Neural task complexity (NTC) bounds representational dimensionality using the volume of the task-parameter manifold and the neural correlation length. The volume-over-correlation-volume construction is the closest existing template for a curvature-like GeoMem task index, but GeoMem should define its index on the controlled task and observation process rather than on a trained neural representation.
+
+- Gao, P., Trautmann, E., Yu, B. M., Santhanam, G., Ryu, S., Shenoy, K. V., & Ganguli, S. (2017). A theory of multineuronal dimensionality, dynamics and measurement. bioRxiv. https://doi.org/10.1101/214262  
+  Role: technical follow-up for NTC, including correlation-volume formulas and sampling predictions. Useful for separating intrinsic task complexity from apparent dimensionality caused by a particular model or recording.
+
+- Ollivier, Y. (2009). Ricci curvature of Markov chains on metric spaces. Journal of Functional Analysis. https://doi.org/10.1016/j.jfa.2008.11.001  
+  Role: principled local curvature for stochastic transition kernels, defined by contraction or expansion of nearby one-step distributions in Wasserstein distance. A strong candidate diagnostic for environments, but it must be tested against GeoMem's commutativity, transition ambiguity, and policy ambiguity rather than assumed to predict memory demand by itself.
+
+- Zhang, H., Rich, P. D., Lee, A. K., & Sharpee, T. O. (2023). Hippocampal spatial representations exhibit a hyperbolic geometry that expands with experience. Nature Neuroscience. https://doi.org/10.1038/s41593-022-01212-4  
+  Role: empirical motivation for negative curvature and hierarchical/tree-like codes. Especially relevant because the paper explicitly connects hyperbolic noncommutativity to spike order, but its inferred representational curvature is not yet a task-intrinsic classifier.
+
+- Urdapilleta, E., Troiani, F., Stella, F., & Treves, A. (2015). Can rodents conceive hyperbolic spaces? Journal of the Royal Society Interface. https://doi.org/10.1098/rsif.2014.1214  
+  Role: key counterexample and environment-design guide: grid-like organization can remain locally viable in negatively curved space when grid scale is small relative to curvature radius. Motivates sweeping the dimensionless path-length/curvature-radius ratio instead of treating Euclidean and hyperbolic tasks as a binary contrast.
+
+- Hardcastle, K., Ganguli, S., & Giocomo, L. M. (2015). Environmental boundaries as an error correction mechanism for grid cells. Neuron. https://doi.org/10.1016/j.neuron.2015.03.039  
+  Role: shows how boundaries and sensory correction interact with path integration. It motivates treating boundary conditions and cue availability as independent environment factors, not as incidental implementation details.
+
 ## Nearby Theories
 
 - McNaughton, B. L., Battaglia, F. P., Jensen, O., Moser, E. I., & Moser, M.-B. (2006). Path integration and the neural basis of the cognitive map. Nature Reviews Neuroscience. https://doi.org/10.1038/nrn1932
@@ -49,6 +69,13 @@
 - George, D., et al. (2021). Clone-structured graph representations enable flexible learning and vicarious evaluation of cognitive maps. Nature Communications. https://www.nature.com/articles/s41467-021-22559-5
 
 - George, D., et al. (2024). Space is a latent sequence: A theory of the hippocampus. Science Advances. https://doi.org/10.1126/sciadv.adm8470
+  Role: **user-supplied reading.** Sequence-first account in which spatial structure is learned from sensory sequences; a direct contrast to GeoMem's hypothesis that sequence memory is selected only in some geometry-observation regimes.
+
+- Cueva, C. J., & Wei, X.-X. (2018). Emergence of grid-like representations by training recurrent neural networks to perform spatial localization. ICLR 2018. https://doi.org/10.48550/arXiv.1803.07770  
+  Role: **user-supplied reading.** Canonical Euclidean RNN path-integration baseline: velocity-driven localization yields grid-, border-, and band-like units. The student's environments should reproduce this regime before interpreting curvature-dependent changes.
+
+- Wang, Z., Di Tullio, R. W., Rooke, S., & Balasubramanian, V. (2024). Time Makes Space: Emergence of Place Fields in Networks Encoding Temporally Continuous Sensory Experiences. NeurIPS 2024. https://arxiv.org/abs/2408.05798  
+  Role: **user-supplied reading.** Temporally continuous masked sensory reconstruction yields place-like fields, remapping, drift, and continual recall without spatial supervision. It motivates sensory continuity, room identity, revisit structure, and masking/cue loss as explicit environment axes.
 
 - Wang, Z., Morris, G., Derdikman, D., Chaudhari, P., & Balasubramanian, V. (2026). A simple model of co-emergence of grid and place fields. arXiv. https://doi.org/10.48550/arXiv.2605.21356  
   Role: recent unified recurrent sensory-prediction model in which grid and place fields co-emerge without supervising either representation; useful contrast for GeoMem's focus on task geometry and memory-substrate selection.

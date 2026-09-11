@@ -16,3 +16,9 @@ Theory, formalization, and literature-facing notes for GeoMem.
 - Paper-specific report flow.
 
 Paper-facing claims should be promoted into `geomem-paper` only after they are stable here.
+
+## Literature
+
+- `literature/reading-list.md`: canonical annotated reading list.
+- `literature/comparison-matrix.md`: compact comparison with GeoMem.
+- `literature/leibold-lab.md`: focused lab context.

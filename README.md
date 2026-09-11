@@ -6,6 +6,7 @@ This root folder is now a paper-oriented workspace for the split GeoMem project.
 
 - `geomem-paper/manuscript/paper_draft.md`: current paper draft.
 - `geomem-paper/reports/current_results_synthesis.md`: current evidence and claim calibration.
+- `geomem-theory/literature/reading-list.md`: canonical annotated reading list.
 - `split_migration.md`: migration map and verification commands.
 
 ## Environment Index
