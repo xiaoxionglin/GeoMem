@@ -8,7 +8,7 @@ Manuscript, reports, and Obsidian-facing writing context for GeoMem.
 - Iteration reports and reviewer-style evaluations.
 - Paper-facing figure embeds.
 
-Shared literature context is maintained once in `../geomem-theory/literature/` and linked from the manuscript.
+Shared literature context is maintained once in `../literature/` and linked from the manuscript.
 
 ## Figure Links
 

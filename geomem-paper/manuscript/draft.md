@@ -228,4 +228,4 @@ The theory should be judged by whether it predicts architecture-dependent perfor
 
 ## References To Integrate
 
-See `../../geomem-theory/literature/reading-list.md` for the canonical working bibliography. The manuscript should prioritize Lin/Yiu/Leibold 2026, Leibold 2020, Yiu/Leibold 2023, Chenani et al. 2019, Gao/Ganguli 2015, McNaughton et al. 2006, Peer et al. 2021, Chrastil/Warren 2014, Stachenfeld et al. 2017, Whittington et al. 2020, George et al. 2021/2024, and Banino et al. 2018.
+See `../../literature/reading-list.md` for the canonical working bibliography. The manuscript should prioritize Lin/Yiu/Leibold 2026, Leibold 2020, Yiu/Leibold 2023, Chenani et al. 2019, Gao/Ganguli 2015, McNaughton et al. 2006, Peer et al. 2021, Chrastil/Warren 2014, Stachenfeld et al. 2017, Whittington et al. 2020, George et al. 2021/2024, and Banino et al. 2018.

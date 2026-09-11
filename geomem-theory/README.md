@@ -1,13 +1,12 @@
 # geomem-theory
 
-Theory, formalization, and literature-facing notes for GeoMem.
+Theory and formalization notes for GeoMem.
 
 ## Owns
 
 - Core thesis and positioning notes.
 - Formal model/proof modules.
 - Reservoir, temporal-basis, and observation-emission theory notes.
-- Literature notes needed to support theory claims.
 
 ## Does Not Own
 
@@ -17,8 +16,4 @@ Theory, formalization, and literature-facing notes for GeoMem.
 
 Paper-facing claims should be promoted into `geomem-paper` only after they are stable here.
 
-## Literature
-
-- `literature/reading-list.md`: canonical annotated reading list.
-- `literature/comparison-matrix.md`: compact comparison with GeoMem.
-- `literature/leibold-lab.md`: focused lab context.
+Workspace-wide literature is maintained in `../literature/`.

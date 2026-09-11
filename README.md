@@ -6,7 +6,7 @@ This root folder is now a paper-oriented workspace for the split GeoMem project.
 
 - `geomem-paper/manuscript/paper_draft.md`: current paper draft.
 - `geomem-paper/reports/current_results_synthesis.md`: current evidence and claim calibration.
-- `geomem-theory/literature/reading-list.md`: canonical annotated reading list.
+- `literature/reading-list.md`: canonical annotated reading list.
 - `split_migration.md`: migration map and verification commands.
 
 ## Environment Index
@@ -30,9 +30,11 @@ Current environment convention:
 
 - `geomem-paper/`: manuscript, reports, evaluations, and Obsidian-facing writing context.
 - `geomem-experiments/`: runnable experiment scripts and generated figures/CSVs.
-- `geomem-theory/`: theory notes, formal modules, and literature-facing conceptual work.
+- `geomem-theory/`: theory notes and formal modules.
 - `geomem-env/`: reusable environment and task-geometry Python package.
 - `geomem-models/`: reusable model, reservoir, RNN, Lin-block, and temporal-basis Python package.
+
+Workspace-wide literature lives in `literature/` rather than under any one subproject.
 
 ## Archived Pre-Split Project
 

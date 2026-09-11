@@ -7,8 +7,9 @@ Status: first-pass internal split implemented. Each `geomem-*` folder has been i
 - `geomem-env`: reusable environment and geometry package.
 - `geomem-models`: reusable model, reservoir, RNN, Lin-block, and temporal-basis package.
 - `geomem-experiments`: runnable experiment scripts and generated artifacts.
-- `geomem-theory`: theory notes, formal modules, and literature-facing conceptual work.
+- `geomem-theory`: theory notes and formal modules.
 - `geomem-paper`: manuscript, reports, and Obsidian-facing paper context.
+- `literature`: workspace-wide reading list and literature notes shared across subprojects.
 
 ## Dependency Direction
 
@@ -18,9 +19,10 @@ geomem-env <------------------ geomem-experiments
 
 geomem-theory -> geomem-paper
 geomem-experiments/figures -> geomem-paper figure embeds
+literature -> geomem-theory and geomem-paper
 ```
 
-`geomem-env` is the lowest-level code dependency. `geomem-experiments` may depend on everything needed to run benchmarks. `geomem-paper` should not own generated artifacts.
+`geomem-env` is the lowest-level code dependency. `geomem-experiments` may depend on everything needed to run benchmarks. `geomem-paper` should not own generated artifacts, and neither paper nor theory should mirror the workspace-wide literature files.
 
 ## Migration Policy
 

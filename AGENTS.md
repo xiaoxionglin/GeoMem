@@ -2,12 +2,14 @@
 
 ## Project Structure & Module Organization
 
-This root folder is a split GeoMem workspace. Keep new work in the active subprojects:
+This root folder is a split GeoMem workspace. Keep executable and subproject-specific work in the active subprojects:
 
 - `geomem-env/`: reusable environments, observations, and diagnostics. Source is in `src/geomem_env/`, tests in `tests/`, notes in `docs/`. It owns graph/task constructors, sensory channels, and commutativity, ambiguity, policy, and residual-history diagnostics.
 - `geomem-models/`: reusable memory models. Source is in `src/geomem_models/`. It owns reservoirs, lightweight RNNs, Lin/block sequence states, temporal bases, readouts, and matrix diagnostics.
 - `geomem-experiments/`: benchmark, sweep, plotting, and backfill scripts under `experiments/`; CSV/SVG outputs under `figures/`. Keep orchestration here and migrate reusable logic into sibling packages.
-- `geomem-paper/` and `geomem-theory/`: manuscript, reports, literature, and conceptual notes.
+- `geomem-paper/`: manuscripts, reports, evaluations, and paper-facing context.
+- `geomem-theory/`: formal modules and conceptual notes.
+- `literature/`: canonical workspace-wide reading list, literature comparison matrix, and focused literature notes. Papers relevant to multiple subprojects belong here and must not be mirrored elsewhere.
 - `legacy-pre-split/`: archived recovery material. Treat as read-only unless explicitly migrating content.
 
 ## Build, Test, and Development Commands
